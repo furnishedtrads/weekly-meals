@@ -521,5 +521,77 @@
   "Eggs: about 2 on hand, which Saturday's brownie bites use.",
   "Eyeball before Thursday night: peanut butter (oats need about 20 tbsp across Friday and Saturday), chia, chocolate chips, granola.",
   "Frozen broccoli: the plan uses about 4 bags (Thu 2, Fri 2) plus 1 for Saturday lunch."
+ ],
+ "shop": [
+  {
+   "h": "Produce",
+   "items": [
+    "Bananas, 2 bunches (organic if within $1 of regular). Plan uses about 5 1/2.",
+    "Grapes, purple, 2 lb loose, cheapest brand (about 4 1/2 cups on Friday)",
+    "Mandarin oranges, 1 bag (10 needed for snacks Thursday and Saturday)",
+    "Baby carrots, 1 bag, 2 lb (Thursday dip snack)",
+    "Bell peppers, 3-count multipack (Thursday pizza strips, plus the middle kiddo's snack)"
+   ]
+  },
+  {
+   "h": "Dairy and eggs",
+   "items": [
+    "Plain Greek yogurt, 2 tubs, 32 oz each (about 6 3/4 cups: parfaits, dip, pudding cups, peaches)",
+    "Flavored Greek yogurt cups, 1 four-pack (Friday snack needs 5, about 2 on hand)",
+    "String cheese, 1 pack of 12 (15 sticks needed, about 11 on hand)",
+    "Mozzarella, 16 oz block (tortilla pizzas need 8 oz, about 4 oz on hand)",
+    "Cheddar, 16 oz block (weekly staple, kid chicken boxes use 4 oz)",
+    "2% milk, 1 gallon (oats use 10 cups, plus shells and pudding)",
+    "Half & half, 16 oz carton (weekly staple)",
+    "Eggs, organic, 1 dozen (brownies need 2; this is a 4-day week, so 1 dozen, not the usual 2 to 3)"
+   ]
+  },
+  {
+   "h": "Pantry and dry goods",
+   "items": [
+    "Old-fashioned oats, 1 canister (7 1/2 cups needed for Friday and Saturday oats, about half a canister on hand)",
+    "Granola, 1 bag (about 2 3/4 cups needed)",
+    "Peanut butter, 1 jar (about 24 tbsp needed, about 9 on hand)",
+    "Chia seeds, 1 bag (10 tbsp needed, probably low)",
+    "Pecans or walnuts, 1 small bag (10 tbsp chopped for Friday's oats)",
+    "Pretzels, 1 bag (about 100 pretzels needed, about 6 oz on hand)",
+    "Marinara, 24 oz jar (tortilla pizzas, the jar on hand is borderline)",
+    "Tortillas, large, 1 package (6 for Thursday's pizzas)",
+    "Sandwich bread, 1 loaf (chicken salad needs 4 slices, about 3 on hand). Nature's Own is your usual, so check whether Aldi has a similar loaf.",
+    "Sugar-free chocolate pudding mix, 1 box (Thursday dessert)",
+    "Mini chocolate chips, 1 bag (about 1 cup across pudding, rice cakes, brownies and oats)",
+    "Canned peaches in juice, 1 can, 15 oz (Friday dessert needs 2, about 1 to 2 on hand)",
+    "Shells and cheese, 1 box (Saturday lunch needs 2, you have 1 to 2)"
+   ]
+  },
+  {
+   "h": "Frozen",
+   "items": [
+    "Frozen broccoli florets, 3 bags, 12 oz each (5 bags needed: Thursday 2, Friday 2, Saturday lunch 1, about 2 to 3 on hand)",
+    "Frozen cheese pizzas, 2 to 3 large, no pepperoni (tonight's dinner, skip if already in the freezer)"
+   ]
+  },
+  {
+   "h": "Eyeball at home (not on the Aldi list)",
+   "items": [
+    "Whole chicken: raw and thawed in the fridge, not frozen (Thursday)",
+    "Frozen salmon and 1 bag frozen stir-fry veggies (Saturday)",
+    "Fettuccine, 1 lb, and Parmesan, about 6 oz (Friday alfredo)",
+    "Fat free evaporated milk, 1 can, and cornstarch (Friday alfredo)",
+    "Rice, about 4 cups dry (Thursday and Saturday)",
+    "Apples, 3 (Saturday lunch) and celery, 2 ribs (Friday chicken salad)",
+    "Cheez-Its, white cheddar popcorn and ranch seasoning packets (Thursday and Friday snacks)",
+    "Cinnamon (about 7 tsp across the oats and peaches), cocoa powder (1/3 cup), maple syrup (5 tsp)",
+    "Mayo, grainy mustard, lemon, onion, garlic powder, olive oil, liquid aminos, flour, sugar, baking powder"
+   ]
+  },
+  {
+   "h": "Walmart or Sam's only (skip unless low)",
+   "items": [
+    "Diet Sam's Cola, 4 packs of 12",
+    "Sparkling water (no sweeteners)",
+    "Rascals training pants, 5T-6T, 16 count"
+   ]
+  }
  ]
 }

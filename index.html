@@ -8,7 +8,7 @@
 <title>Our Weekly Meals</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Lora:ital,wght@0,400;0,500;1,400&display=swap">
 <style>
-/* Layout: phone-first app. Sticky day pills on top, one day at a time (swipe or tap), bottom bar for Days / Week / Pantry. Recipes open in a bottom sheet. */
+/* Layout: phone-first app. Sticky day pills on top, one day at a time (swipe or tap), bottom bar for Days / Week / Pantry / Shopping. Recipes open in a bottom sheet. */
 :root{
   --bg:#F1F3EC; --card:#FFFFFF; --ink:#27302A; --muted:#667066; --line:#DDE2D6;
   --green:#40593F; --green-soft:#E3EAD9; --terra:#B25D3F; --terra-soft:#F4E2D9; --gold:#D9A455; --gold-soft:#F7EBD2;
@@ -108,19 +108,22 @@ tr.now td{background:var(--gold-soft)}
   <button role="tab" data-tab="days" aria-selected="true">Days</button>
   <button role="tab" data-tab="week" aria-selected="false">Week</button>
   <button role="tab" data-tab="pantry" aria-selected="false">Pantry</button>
+  <button role="tab" data-tab="shop" aria-selected="false">Shopping</button>
 </nav>
 <div id="sheet-root"></div>
 
 <script>
-let YEAR,MONTH,DAYS=[],R={},DINNERS=[],PANTRY=[],METHOD='',DESSERTS='',WEEK='',todayIdx=-1,tab='days',cur=0,checks={};
+let YEAR,MONTH,DAYS=[],R={},DINNERS=[],PANTRY=[],SHOP=[],METHOD='',DESSERTS='',WEEK='',todayIdx=-1,tab='days',cur=0,checks={};
 const store={get(k,d){try{const v=localStorage.getItem(k);return v===null?d:JSON.parse(v)}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
 const $=s=>document.querySelector(s), view=$('#view');
+const MON=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 /* Shared checklist: when DB_URL is filled in (Firebase Realtime Database), checks sync between phones live. Empty = this phone only. */
 const DB_URL='https://weekly-meals-15fb2-default-rtdb.firebaseio.com';
 const ck=id=>String(id).replace(/[.$#\[\]\/]/g,'_');
-function applyChecks(){document.querySelectorAll('.check input').forEach(i=>{i.checked=checks[ck(i.dataset.id)]===true})}
+function applyChecks(){document.querySelectorAll('.check input').forEach(i=>{i.checked=checks[ck(i.dataset.id)]===true});updateShopCount()}
+function updateShopCount(){const el=$('#shopcount');if(!el)return;const all=[...document.querySelectorAll('.check input')];const done=all.filter(i=>i.checked).length;el.textContent=done+' of '+all.length+' checked'}
 function pushCheck(id,v){checks[ck(id)]=v;store.set('checks-'+WEEK,checks);
   if(DB_URL)fetch(DB_URL+'/'+WEEK+'/'+ck(id)+'.json',{method:'PUT',body:JSON.stringify(v)}).catch(()=>{})}
 function pullChecks(){fetch(DB_URL+'/'+WEEK+'.json').then(r=>r.json()).then(d=>{checks=d||{};store.set('checks-'+WEEK,checks);applyChecks()}).catch(()=>{})}
@@ -139,7 +142,7 @@ function renderDays(){
     return `<button class="${cls}" data-r="${m[3]||''}" ${has?'':'disabled style="cursor:default"'}><span class="slot">${m[0]}</span><span class="mname">${esc(m[1])}${m[2]?`<small>${esc(m[2])}</small>`:''}</span>${has?'<span class="chev">Recipe</span>':''}</button>`}).join('');
   const pm=d.pm.length?`<section class="card"><h3>Later today</h3>${d.pm.map((t,i)=>checkRow(d.k+'-pm-'+i,t)).join('')}</section>`:'';
   view.innerHTML=`<div class="pills" role="tablist" aria-label="Days">${pills}</div>
-  <div id="panel"><div class="day-head"><h2>${d.wd==='Sat'?'Saturday':d.wd==='Sun'?'Sunday':d.wd==='Mon'?'Monday':d.wd==='Tue'?'Tuesday':d.wd==='Wed'?'Wednesday':d.wd==='Thu'?'Thursday':'Friday'}, Oct ${d.n}</h2><span class="tag">${esc(d.tag)}</span></div>
+  <div id="panel"><div class="day-head"><h2>${d.wd==='Sat'?'Saturday':d.wd==='Sun'?'Sunday':d.wd==='Mon'?'Monday':d.wd==='Tue'?'Tuesday':d.wd==='Wed'?'Wednesday':d.wd==='Thu'?'Thursday':'Friday'}, ${MON[MONTH]} ${d.n}</h2><span class="tag">${esc(d.tag)}</span></div>
   <p class="note">${esc(d.note)}</p>
   ${am}
   ${d.meals.length?`<section class="card"><h3>Meals</h3>${meals}</section>`:''}
@@ -158,7 +161,12 @@ function renderPantry(){
   view.innerHTML=`<div class="day-head"><h2>Pantry check</h2></div><p class="note">Things to eyeball before the day they are used. Tap to check off.</p>
   <section class="card">${PANTRY.map((t,i)=>checkRow('pantry-'+i,t)).join('')}</section>`;
 }
-function render(){ if(tab==='days')renderDays(); else if(tab==='week')renderWeek(); else renderPantry();
+function renderShop(){
+  view.innerHTML=`<div class="day-head"><h2>Shopping list</h2></div><p class="note">Tap to check off as you shop. Your husband sees the checks live. <span id="shopcount"></span></p>`+
+  SHOP.map((sec,si)=>`<section class="card"><h3>${esc(sec.h)}</h3>${sec.items.map((t,ii)=>checkRow('shop-'+si+'-'+ii,t)).join('')}</section>`).join('');
+  updateShopCount();
+}
+function render(){ if(tab==='days')renderDays(); else if(tab==='week')renderWeek(); else if(tab==='shop')renderShop(); else renderPantry();
   document.querySelectorAll('.nav button').forEach(b=>b.setAttribute('aria-selected',b.dataset.tab===tab)); window.scrollTo(0,0)}
 
 function openSheet(id){
@@ -175,15 +183,17 @@ document.addEventListener('click',e=>{
   const m=e.target.closest('.meal'); if(m&&m.dataset.r){openSheet(m.dataset.r);return}
   if(e.target.closest('.x')||e.target.id==='sbg'){closeSheet();return}
 });
-document.addEventListener('change',e=>{const c=e.target.closest('.check input'); if(c) pushCheck(c.dataset.id,c.checked)});
+document.addEventListener('change',e=>{const c=e.target.closest('.check input'); if(c){pushCheck(c.dataset.id,c.checked);updateShopCount()}});
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeSheet()});
 let sx=null,sy=null;
 document.addEventListener('touchstart',e=>{if(tab!=='days'||$('#sheet-root').innerHTML)return;sx=e.touches[0].clientX;sy=e.touches[0].clientY},{passive:true});
 document.addEventListener('touchend',e=>{if(sx===null)return;const dx=e.changedTouches[0].clientX-sx,dy=e.changedTouches[0].clientY-sy;sx=null;
   if(Math.abs(dx)>60&&Math.abs(dx)>Math.abs(dy)*1.6){cur=Math.max(0,Math.min(DAYS.length-1,cur+(dx<0?1:-1)));store.set('day-'+WEEK,cur);render()}},{passive:true});
 function boot(p){
-  YEAR=p.year;MONTH=p.month;DAYS=p.days;R=p.r;DINNERS=p.dinners;PANTRY=p.pantry;METHOD=p.method||'';DESSERTS=p.desserts||'';WEEK=p.week;
+  YEAR=p.year;MONTH=p.month;DAYS=p.days;R=p.r;DINNERS=p.dinners;PANTRY=p.pantry;SHOP=p.shop||[];METHOD=p.method||'';DESSERTS=p.desserts||'';WEEK=p.week;
   $('#sub').textContent=p.sub||'';
+  const sb=document.querySelector('.nav button[data-tab="shop"]');if(sb)sb.style.display=SHOP.length?'':'none';
+  if(tab==='shop'&&!SHOP.length)tab='days';
   const d=new Date();todayIdx=(d.getFullYear()===YEAR&&d.getMonth()===MONTH)?DAYS.findIndex(x=>x.n===d.getDate()):-1;
   cur=store.get('day-'+WEEK,null);if(cur===null||cur<0||cur>=DAYS.length)cur=todayIdx>=0?todayIdx:0;
   checks=store.get('checks-'+WEEK,{});
