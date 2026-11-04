@@ -1,62 +1,37 @@
 {
- "week": "wk-2026-11-04",
+ "week": "wk-2026-11-04b",
  "year": 2026,
  "month": 10,
- "sub": "Week 11, Nov 4 to 7. Four days, no activities.",
+ "sub": "Week 11, Nov 4 to 7. Four days, no activities. Revised Wednesday: pizza night.",
  "days": [
   {
    "k": "wed",
    "wd": "Wed",
    "n": 4,
-   "tag": "School day, crockpot chicken",
-   "note": "Everything today comes from what is already in the house, and the chicken cooks itself all day.",
+   "tag": "Change of plans",
+   "note": "Frozen pizza night, and the Halloween candy and leftover cookies are dessert. Groceries should arrive by 5:30, and tonight gets tomorrow ready.",
    "am": [
-    "Whole chicken into the slow cooker by 9:30: onion on the bottom, chicken on top, seasoned, low for 7 to 8 hours. It must be raw and thawed, never frozen.",
-    "Make the cheesy grits (about 25 minutes) with banana slices on the side.",
-    "Cook the ditalini and toss with marinara and cheese. Pack the middle and youngest lunches and keep the rest for the adults.",
-    "Put the frozen strawberries for tonight's dessert in the fridge to thaw."
+    "Groceries due by 5:30 CT: put the cold items away first, then check the order against the list."
    ],
    "pm": [
-    "5:00 pm: cook the rice and roast the broccoli (20 minutes) while the chicken rests. Chicken is done at 165 in the thickest part of the thigh.",
-    "After dinner: pull ALL the leftover chicken off the bones and refrigerate within 2 hours (about 4 cups for Thursday).",
-    "Tonight: toss the old cooked pork and chicken from Week 10 (8 to 9 days old)."
+    "Check that the whole chicken is raw and thawed in the fridge (never frozen). Leave it there for the morning.",
+    "Set out for the crockpot: quarter 1 onion and mix the spices (2 tsp salt, 1 tsp garlic powder, 1 tsp paprika, 1/2 tsp pepper) in a small cup.",
+    "Assemble the 5 yogurt parfait cups for Thursday breakfast (yogurt and banana slices, granola in a separate cup) and put them in the fridge.",
+    "Mix the ranch yogurt dip (3/4 cup plain Greek yogurt plus 1 tbsp ranch seasoning) for Thursday and Friday snacks.",
+    "Toss the cooked pork and chicken left from Week 10 (8 to 9 days old)."
    ],
    "meals": [
     [
-     "Breakfast",
-     "Cheesy grits with bananas",
-     "On hand, about 25 minutes",
-     "grits"
-    ],
-    [
-     "AM snack",
-     "Apple slices and string cheese",
-     "",
-     "s_apple_cheese"
-    ],
-    [
-     "Lunch",
-     "Ditalini with marinara and cheese, celery sticks",
-     "All on hand",
-     "pasta_marinara"
-    ],
-    [
-     "PM snack",
-     "Cheez-Its and string cheese",
-     "",
-     "s_crackers_cheese"
-    ],
-    [
      "Dinner",
-     "Crockpot whole chicken, rice, roasted broccoli",
-     "Crockpot, hands-off",
-     "chicken_cp"
+     "Frozen pizzas",
+     "Oven",
+     null
     ],
     [
      "Dessert",
-     "Vanilla pudding cups with strawberries",
-     "Yogurt is out, so evaporated milk stands in tonight",
-     "pudding_van"
+     "Halloween candy and leftover chocolate chip cookies",
+     "",
+     null
     ]
    ]
   },
@@ -64,24 +39,24 @@
    "k": "thu",
    "wd": "Thu",
    "n": 5,
-   "tag": "School day, alfredo night",
-   "note": "Wednesday's chicken makes today's lunch and tonight's alfredo. The grocery order should arrive this morning.",
+   "tag": "School day, crockpot chicken",
+   "note": "The whole chicken cooks itself all day, and Friday lunch and dinner both run on the leftovers.",
    "am": [
-    "Put out the yogurt parfaits (yogurt, granola, banana slices) for breakfast. If the groceries have not arrived, backup is another round of grits.",
-    "Make the chicken salad for the adults and pack the kid chicken boxes (2 cups of Wednesday's chicken).",
-    "Set aside 2 cups of the cold chicken for tonight's alfredo.",
-    "Mix the ranch yogurt dip for the snacks."
+    "Whole chicken into the slow cooker by 9:30: onion on the bottom, chicken on top, seasoned, low for 7 to 8 hours. It must be raw and thawed, never frozen.",
+    "Breakfast is the parfait cups from last night. Grab and go.",
+    "Make the tortilla pizzas for lunch (8 minutes at 425), cool and pack the middle and youngest lunches. The adults eat theirs at home.",
+    "Pack the snacks: mandarin and string cheese for the morning, carrots, ranch dip and pretzels for after school."
    ],
    "pm": [
-    "4:45 pm: roast the broccoli, boil the fettuccine and make the alfredo sauce (25 minutes).",
-    "Tonight: move the salmon from the freezer to the fridge to thaw for Friday.",
+    "5:00 pm: cook the rice and roast the broccoli (20 minutes) while the chicken rests. Chicken is done at 165 in the thickest part of the thigh.",
+    "After dinner: pull ALL the leftover chicken off the bones and refrigerate within 2 hours (about 4 cups for Friday).",
     "Tonight: assemble the 5 jars of Maple Brown Sugar overnight oats for Friday."
    ],
    "meals": [
     [
      "Breakfast",
      "Greek yogurt parfaits with granola and banana",
-     "",
+     "Made Wednesday night",
      "parfait"
     ],
     [
@@ -92,9 +67,9 @@
     ],
     [
      "Lunch",
-     "Chicken salad (adults) and kid chicken boxes",
-     "Wednesday's crockpot chicken",
-     "chicken_salad"
+     "Tortilla pizzas and pepper strips",
+     "",
+     "tortilla_pizza"
     ],
     [
      "PM snack",
@@ -104,9 +79,9 @@
     ],
     [
      "Dinner",
-     "Chicken fettuccine alfredo, roasted broccoli",
-     "One pot plus a sheet pan, 25 minutes",
-     "alfredo"
+     "Crockpot whole chicken, rice, roasted broccoli",
+     "Crockpot, hands-off",
+     "chicken_cp"
     ],
     [
      "Dessert",
@@ -121,14 +96,16 @@
    "wd": "Fri",
    "n": 6,
    "tag": "School day, oats morning",
-   "note": "Oats are ready, and dinner is a 25 minute salmon sheet pan.",
+   "note": "Oats are ready, and Thursday's chicken becomes lunch and tonight's alfredo.",
    "am": [
     "Grab the Maple Brown Sugar oat jars and top with chopped pecans and a tiny maple drizzle.",
-    "Make the tortilla pizzas for lunch (8 minutes at 425), cool and pack with pepper strips.",
-    "Check that the salmon is thawed in the fridge."
+    "Make the chicken salad for the adults and pack the kid chicken boxes (2 cups of Thursday's chicken).",
+    "Set aside the other 2 cups of cold chicken for tonight's alfredo.",
+    "Pack the snacks: yogurt cup and granola for the morning, popcorn, cheese and grapes for after school."
    ],
    "pm": [
-    "4:45 pm: oven to 425, roast the frozen stir-fry veggies and the glazed salmon on two pans and start the rice (25 minutes).",
+    "4:45 pm: roast the broccoli, boil the fettuccine and make the alfredo sauce (25 minutes).",
+    "Tonight: move the salmon from the freezer to the fridge to thaw for Saturday.",
     "Tonight: assemble the 5 jars of Peanut Butter Banana overnight oats for Saturday."
    ],
    "meals": [
@@ -146,9 +123,9 @@
     ],
     [
      "Lunch",
-     "Tortilla pizzas and pepper strips",
-     "",
-     "tortilla_pizza"
+     "Chicken salad (adults) and kid chicken boxes",
+     "Thursday's crockpot chicken",
+     "chicken_salad"
     ],
     [
      "PM snack",
@@ -158,9 +135,9 @@
     ],
     [
      "Dinner",
-     "Soy-maple salmon over rice with roasted veggies",
-     "Sheet pan plus rice, 25 minutes",
-     "salmon"
+     "Chicken fettuccine alfredo, roasted broccoli",
+     "One pot plus a sheet pan, 25 minutes",
+     "alfredo"
     ],
     [
      "Dessert",
@@ -175,15 +152,15 @@
    "wd": "Sat",
    "n": 7,
    "tag": "Home day",
-   "note": "Everyone is home, so lunch is a cozy pasta and dinner is the garlic butter shrimp that has been waiting in the freezer.",
+   "note": "Everyone is home, so brownies bake in the morning and dinner is a 25 minute salmon sheet pan.",
    "am": [
     "Grab the Peanut Butter Banana oat jars and top with banana slices and chocolate chips.",
-    "Move the shrimp from the freezer to the fridge this morning (or thaw in a bowl of cold water for 20 minutes before cooking).",
+    "Check that the salmon is thawed in the fridge.",
     "Bake the brownie bites after breakfast (20 minutes) so they cool before dessert.",
     "Make the shells and cheese for lunch with steamed broccoli and apple slices."
    ],
    "pm": [
-    "4:45 pm: start the rice and roast the sweet potatoes and broccoli at 425 (25 minutes), then sear the shrimp in garlic butter for the last 5 minutes.",
+    "4:45 pm: oven to 425, roast the frozen stir-fry veggies and the glazed salmon on two pans and start the rice (25 minutes).",
     "After dinner: eyeball what is left in the fridge and pantry for next week's ledger."
    ],
    "meals": [
@@ -213,9 +190,9 @@
     ],
     [
      "Dinner",
-     "Garlic butter shrimp over rice with roasted sweet potatoes and broccoli",
-     "Skillet plus sheet pan, 30 minutes",
-     "shrimp"
+     "Soy-maple salmon over rice with roasted veggies",
+     "Sheet pan plus rice, 25 minutes",
+     "salmon"
     ],
     [
      "Dessert",
@@ -227,66 +204,9 @@
   }
  ],
  "r": {
-  "grits": {
-   "t": "Cheesy grits with bananas",
-   "s": "Serves 5",
-   "ing": [
-    "1 cup grits (dry)",
-    "4 cups water",
-    "1/2 tsp salt",
-    "1 tbsp olive oil",
-    "1 cup shredded cheddar (grate from the block)",
-    "1/4 tsp garlic powder",
-    "2 bananas, sliced"
-   ],
-   "st": [
-    "Boil the water with the salt, whisk in the grits and simmer on low 15 to 20 minutes, stirring often.",
-    "Stir in the olive oil, cheddar and garlic powder until melted.",
-    "Serve with banana slices on the side."
-   ]
-  },
-  "s_apple_cheese": {
-   "t": "Apple slices and string cheese",
-   "s": "Per person, x5",
-   "ing": [
-    "1/2 apple, sliced",
-    "1 string cheese stick"
-   ],
-   "st": [
-    "Pack or plate as listed. A squeeze of lemon on the apple keeps it from browning."
-   ]
-  },
-  "pasta_marinara": {
-   "t": "Ditalini with marinara and cheese, celery sticks",
-   "s": "Serves 6",
-   "ing": [
-    "12 oz ditalini",
-    "1 1/2 cups marinara",
-    "3/4 cup shredded mozzarella (grate from the block)",
-    "1 tbsp olive oil",
-    "1/2 tsp Italian seasoning",
-    "3 celery ribs, cut into sticks"
-   ],
-   "st": [
-    "Boil the ditalini and drain, saving 1/4 cup of the water.",
-    "Warm the marinara with the olive oil and Italian seasoning, toss with the pasta and a splash of the water.",
-    "Stir in the mozzarella until melty. Serve warm (or pack in a thermos) with celery sticks."
-   ]
-  },
-  "s_crackers_cheese": {
-   "t": "Cheez-Its and string cheese",
-   "s": "Per person, x5",
-   "ing": [
-    "1/2 cup Cheez-Its (about 20 crackers)",
-    "1 string cheese stick"
-   ],
-   "st": [
-    "Pack or plate as listed."
-   ]
-  },
   "chicken_cp": {
    "t": "Crockpot whole chicken, rice and roasted broccoli",
-   "s": "Serves 6 with leftover chicken for Thursday",
+   "s": "Serves 6 with leftover chicken for Friday",
    "ing": [
     "1 whole chicken, 5 to 6 lb, raw and thawed (never frozen)",
     "1 onion, quartered",
@@ -305,22 +225,7 @@
     "Put the onion in the slow cooker. Pat the chicken dry, rub with the oil and spices and set it breast side up on the onion. Pour the water around it.",
     "Cook on low 7 to 8 hours (or high 4 to 5) until 165 in the thickest part of the thigh.",
     "Cook the rice with the water and butter. Roast the frozen broccoli at 425 with the oil and salt for 18 minutes. Let the chicken rest 15 minutes and serve legs, thighs and some breast.",
-    "After dinner pull ALL the remaining meat off the bones and refrigerate within 2 hours (about 4 cups for Thursday)."
-   ]
-  },
-  "pudding_van": {
-   "t": "Vanilla pudding cups with strawberries",
-   "s": "Serves 6",
-   "ing": [
-    "1 box (1 oz) sugar-free vanilla pudding mix",
-    "1 can (12 oz) fat free evaporated milk",
-    "1/2 cup 2% milk",
-    "1 1/2 cups thawed frozen strawberries",
-    "1/4 cup granola, crushed"
-   ],
-   "st": [
-    "Whisk the pudding mix with the evaporated milk and 2% milk for 2 minutes. (Greek yogurt is out tonight, so evaporated milk keeps it creamy and protein-rich.)",
-    "Spoon into cups, chill 10 minutes and top with strawberries and granola."
+    "After dinner pull ALL the remaining meat off the bones and refrigerate within 2 hours (about 4 cups: 2 for Friday's chicken salad lunch and 2 for Friday's alfredo)."
    ]
   },
   "parfait": {
@@ -353,7 +258,7 @@
    "t": "Chicken salad (adults) and kid chicken boxes",
    "s": "Serves 6 (2 adults, 3 kid boxes plus a spare)",
    "ing": [
-    "Adult salad: 1 cup chopped chicken (from Wednesday's crockpot chicken), 1/4 cup mayo, 1 tbsp grainy mustard, 2 celery ribs diced, 1 tbsp lemon juice, salt and pepper, 4 slices bread",
+    "Adult salad: 1 cup chopped chicken (from Thursday's crockpot chicken), 1/4 cup mayo, 1 tbsp grainy mustard, 2 celery ribs diced, 1 tbsp lemon juice, salt and pepper, 4 slices bread",
     "Kid boxes: 1 cup shredded plain chicken, 1 cup cheddar cubes, 1 1/2 cups Cheez-Its, 2 cups grapes"
    ],
    "st": [
@@ -378,7 +283,7 @@
    "s": "Serves 6",
    "ing": [
     "1 lb fettuccine",
-    "2 cups shredded chicken (from Wednesday's crockpot chicken)",
+    "2 cups shredded chicken (from Thursday's crockpot chicken)",
     "1 can (12 oz) fat free evaporated milk",
     "1 tbsp cornstarch",
     "1 1/2 cups grated Parmesan",
@@ -561,28 +466,6 @@
     "Pack or plate as listed."
    ]
   },
-  "shrimp": {
-   "t": "Garlic butter shrimp over rice with roasted sweet potatoes and broccoli",
-   "s": "Serves 6",
-   "ing": [
-    "1 1/2 lb raw peeled medium shrimp, thawed (use whatever the bag holds)",
-    "3 tbsp butter",
-    "1 tbsp olive oil",
-    "1 tsp garlic powder",
-    "1 tbsp lemon juice",
-    "1/2 tsp salt and 1/4 tsp pepper",
-    "2 cups long grain white rice and 4 cups water",
-    "1 tbsp butter for the rice",
-    "1 bag chopped frozen sweet potatoes",
-    "1 bag (12 oz) frozen broccoli",
-    "1 tbsp olive oil and 1/2 tsp salt for the veggies"
-   ],
-   "st": [
-    "Heat the oven to 425. Spread the sweet potatoes and broccoli on a sheet pan with the oil and salt and roast 25 minutes, stirring once. Cook the rice with the water and butter.",
-    "Pat the shrimp dry. Melt the butter with the olive oil in a large skillet over medium-high, add the shrimp and garlic powder and sear 2 minutes per side until pink.",
-    "Stir in the lemon juice, salt and pepper. Serve over rice with the veggies and spoon the pan butter over the top."
-   ]
-  },
   "brownies": {
    "t": "Cocoa brownie bites",
    "s": "Serves 6 (12 bites)",
@@ -607,37 +490,36 @@
  "dinners": [
   [
    "Wed 4",
+   "Frozen pizzas",
+   "Oven"
+  ],
+  [
+   "Thu 5",
    "Crockpot whole chicken, rice, broccoli",
    "Crockpot"
   ],
   [
-   "Thu 5",
+   "Fri 6",
    "Chicken fettuccine alfredo, broccoli",
    "One pot + sheet pan"
   ],
   [
-   "Fri 6",
+   "Sat 7",
    "Soy-maple salmon, rice, roasted veggies",
    "Sheet pan"
-  ],
-  [
-   "Sat 7",
-   "Garlic butter shrimp, rice, sweet potatoes and broccoli",
-   "Skillet + sheet pan"
   ]
  ],
- "method": "1 crockpot night (Wed), 2 sheet-pan nights (Fri, Sat) and 1 quick one-pot night (Thu). Dinner is on the table about 5:30 every night.",
- "desserts": "Wed vanilla pudding cups with strawberries, Thu chocolate pudding yogurt cups, Fri peaches and cream cups, Sat cocoa brownie bites.",
+ "method": "Pizza night Wed, 1 crockpot night (Thu), 1 quick one-pot night (Fri) and 1 sheet-pan night (Sat). Dinner is on the table about 5:30 every night.",
+ "desserts": "Wed Halloween candy and leftover cookies, Thu chocolate pudding yogurt cups, Fri peaches and cream cups, Sat cocoa brownie bites.",
  "pantry": [
-  "Whole chicken: confirm it is raw and thawed in the fridge (not frozen) before Wednesday 9:30.",
+  "Groceries are due Wednesday by 5:30 CT. Put cold items away first.",
+  "Whole chicken: confirm it is raw and thawed in the fridge (not frozen) before Thursday 9:30.",
   "Toss the cooked pork and chicken left from Week 10 (8 to 9 days old).",
-  "Grocery order should arrive Thursday morning. If it is late, Thursday breakfast backup is grits.",
-  "Frozen strawberries: Wednesday's dessert needs 1 1/2 cups thawed. Check the bag.",
-  "Frozen salmon: move to the fridge Thursday night.",
-  "Shrimp: check the bag size (plan assumes about 1 1/2 lb) and thaw Saturday morning.",
+  "Frozen salmon: move to the fridge Friday night for Saturday dinner.",
+  "Shrimp stays in the freezer this week (no dinner for it). It is first in line next week.",
   "Shells and cheese: Saturday lunch needs 2 boxes. Check the shelf.",
   "Eggs: about 2 on hand, which Saturday's brownie bites use.",
-  "Eyeball before Friday: peanut butter (oats need about 20 tbsp across Friday and Saturday), chia, chocolate chips, granola.",
-  "Frozen broccoli: the plan uses about 5 bags (Wed 2, Thu 2, Sat lunch 1, Sat dinner 1)."
+  "Eyeball before Thursday night: peanut butter (oats need about 20 tbsp across Friday and Saturday), chia, chocolate chips, granola.",
+  "Frozen broccoli: the plan uses about 4 bags (Thu 2, Fri 2) plus 1 for Saturday lunch."
  ]
 }
