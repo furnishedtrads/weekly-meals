@@ -1,82 +1,26 @@
 {
- "week": "wk-2026-11-04b",
+ "week": "wk-2026-11-05",
  "year": 2026,
  "month": 10,
- "sub": "Week 11, Nov 4 to 7. Four days, no activities. Revised Wednesday: pizza night.",
+ "sub": "Week 11, Thu Nov 5 to Fri Nov 13. Groceries arrive Fri.",
  "days": [
-  {
-   "k": "wed",
-   "wd": "Wed",
-   "n": 4,
-   "tag": "Change of plans",
-   "note": "Frozen pizza night, and the Halloween candy and leftover cookies are dessert. Groceries should arrive by 5:30, and tonight gets tomorrow ready.",
-   "am": [
-    "Groceries due by 5:30 CT: put the cold items away first, then check the order against the list."
-   ],
-   "pm": [
-    "Check that the whole chicken is raw and thawed in the fridge (never frozen). Leave it there for the morning.",
-    "Set out for the crockpot: quarter 1 onion and mix the spices (2 tsp salt, 1 tsp garlic powder, 1 tsp paprika, 1/2 tsp pepper) in a small cup.",
-    "Assemble the 5 yogurt parfait cups for Thursday breakfast (yogurt and banana slices, granola in a separate cup) and put them in the fridge.",
-    "Mix the ranch yogurt dip (3/4 cup plain Greek yogurt plus 1 tbsp ranch seasoning) for Thursday and Friday snacks.",
-    "Toss the cooked pork and chicken left from Week 10 (8 to 9 days old)."
-   ],
-   "meals": [
-    [
-     "Dinner",
-     "Frozen pizzas",
-     "Oven",
-     null
-    ],
-    [
-     "Dessert",
-     "Halloween candy and leftover chocolate chip cookies",
-     "",
-     null
-    ]
-   ]
-  },
   {
    "k": "thu",
    "wd": "Thu",
    "n": 5,
-   "tag": "School day, crockpot chicken",
-   "note": "The whole chicken cooks itself all day, and Friday lunch and dinner both run on the leftovers.",
+   "tag": "Tonight only, crockpot chicken",
+   "note": "Today's breakfast, school lunches and lunch are already done. Tonight is the crockpot chicken with pepper rice, and tomorrow gets set up.",
    "am": [
-    "Whole chicken into the slow cooker by 9:30: onion on the bottom, chicken on top, seasoned, low for 7 to 8 hours. It must be raw and thawed, never frozen.",
-    "Breakfast is the parfait cups from last night. Grab and go.",
-    "Make the tortilla pizzas for lunch (8 minutes at 425), cool and pack the middle and youngest lunches. The adults eat theirs at home.",
-    "Pack the snacks: mandarin and string cheese for the morning, carrots, ranch dip and pretzels for after school."
+    "The whole chicken is in the crockpot (low). Check it reaches 165 in the thickest part of the thigh around 4:30.",
+    "Tomorrow's groceries arrive Fri between 10 am and 1 pm. Clear a little fridge and freezer space tonight."
    ],
    "pm": [
-    "5:00 pm: sauté the peppers and start the pepper rice, and roast the broccoli (20 minutes) while the chicken rests. Chicken is done at 165 in the thickest part of the thigh.",
-    "After dinner: pull ALL the leftover chicken off the bones and refrigerate within 2 hours (about 4 cups for Friday).",
-    "Tonight: assemble the 5 jars of Maple Brown Sugar overnight oats for Friday."
+    "5:00 pm: sauté the peppers and start the pepper rice, and roast the broccoli (20 minutes) while the chicken rests.",
+    "After dinner: pull ALL the leftover chicken off the bones and refrigerate within 2 hours (about 4 cups: 2 for Friday's alfredo, 1 for the adult wraps, 1 for the kid boxes).",
+    "Tonight: mix the adult chicken salad (1 cup chicken, mayo, mustard, celery, lemon) so Friday morning is just packing.",
+    "Tonight: set out the grits, cheddar and 2 bananas for Friday breakfast, and check the apples, string cheese and Cheez-Its for Friday's lunch box."
    ],
    "meals": [
-    [
-     "Breakfast",
-     "Greek yogurt parfaits with granola and banana",
-     "Made Wednesday night",
-     "parfait"
-    ],
-    [
-     "AM snack",
-     "Mandarin and string cheese",
-     "",
-     "s_mandarin_cheese"
-    ],
-    [
-     "Lunch",
-     "Tortilla pizzas and pepper strips",
-     "",
-     "tortilla_pizza"
-    ],
-    [
-     "PM snack",
-     "Carrots, ranch yogurt dip and pretzels",
-     "",
-     "s_carrot_dip"
-    ],
     [
      "Dinner",
      "Crockpot whole chicken, pepper rice, roasted broccoli",
@@ -95,43 +39,42 @@
    "k": "fri",
    "wd": "Fri",
    "n": 6,
-   "tag": "School day, oats morning",
-   "note": "Oats are ready, and Thursday's chicken becomes lunch and tonight's alfredo.",
+   "tag": "School day, groceries arrive 10 to 1",
+   "note": "Breakfast and school lunches use what is in the house. The groceries arrive mid-day, so dinner and the after-school snack can use them.",
    "am": [
-    "Grab the Maple Brown Sugar oat jars and top with chopped pecans and a tiny maple drizzle.",
-    "Make the chicken salad for the adults and pack the kid chicken boxes (2 cups of Thursday's chicken).",
-    "Set aside the other 2 cups of cold chicken for tonight's alfredo.",
-    "Pack the snacks: yogurt cup and granola for the morning, popcorn, cheese and grapes for after school."
+    "Make the cheesy grits (about 25 minutes) with banana slices.",
+    "Pack school lunches from what is on hand: the chicken boxes (chicken, cheddar cubes, Cheez-Its, apple slices) and a pretzel and string cheese snack. Adults eat the chicken wraps at home.",
+    "Groceries due 10 am to 1 pm: put the cold items away first, and set the ground turkey aside to cook Sunday (or freeze it).",
+    "Take the frozen cheese pizzas off the order if they are still in the cart (see the Shopping tab)."
    ],
    "pm": [
     "4:45 pm: roast the broccoli, boil the fettuccine and make the alfredo sauce (25 minutes).",
-    "Tonight: move the salmon from the freezer to the fridge to thaw for Saturday.",
-    "Tonight: assemble the 5 jars of Peanut Butter Banana overnight oats for Saturday."
+    "Tonight: move the frozen salmon from the freezer to the fridge to thaw for Saturday."
    ],
    "meals": [
     [
      "Breakfast",
-     "Maple brown sugar overnight oats",
-     "Oats mix #5",
-     "oats5"
+     "Cheesy grits with bananas",
+     "On hand, about 25 minutes",
+     "grits"
     ],
     [
      "AM snack",
-     "Greek yogurt cup and granola",
-     "",
-     "s_yogurt_granola"
+     "Pretzels and string cheese",
+     "On hand",
+     "s_pretzel_string"
     ],
     [
      "Lunch",
-     "Chicken salad (adults) and kid chicken boxes",
-     "Thursday's crockpot chicken",
-     "chicken_salad"
+     "Chicken salad wraps (adults) and kid chicken boxes",
+     "Tonight's chicken, made Thursday",
+     "chicken_wraps"
     ],
     [
      "PM snack",
-     "White cheddar popcorn, cheese and grapes",
-     "",
-     "s_popcorn"
+     "Mandarin and string cheese",
+     "Groceries are in by now",
+     "s_mandarin_cheese"
     ],
     [
      "Dinner",
@@ -154,21 +97,21 @@
    "tag": "Home day",
    "note": "Everyone is home, so brownies bake in the morning and dinner is a 25 minute salmon sheet pan.",
    "am": [
-    "Grab the Peanut Butter Banana oat jars and top with banana slices and chocolate chips.",
+    "Make the scrambled eggs and toast for breakfast (about 10 minutes).",
     "Check that the salmon is thawed in the fridge.",
     "Bake the brownie bites after breakfast (20 minutes) so they cool before dessert.",
     "Make the shells and cheese for lunch with steamed broccoli and apple slices."
    ],
    "pm": [
     "4:45 pm: oven to 425, roast the frozen stir-fry veggies and the glazed salmon on two pans and start the rice (25 minutes).",
-    "After dinner: eyeball what is left in the fridge and pantry for next week's ledger."
+    "Tonight: nothing to prep. Sunday is a slower day."
    ],
    "meals": [
     [
      "Breakfast",
-     "Peanut butter banana overnight oats",
-     "Oats mix #1",
-     "oats1"
+     "Scrambled eggs, cheese and toast",
+     "",
+     "scramble"
     ],
     [
      "AM snack",
@@ -179,7 +122,7 @@
     [
      "Lunch",
      "Shells and cheese with broccoli and apple slices",
-     "Uses the boxes on hand",
+     "",
      "shells"
     ],
     [
@@ -199,6 +142,339 @@
      "Cocoa brownie bites",
      "The weekend treat",
      "brownies"
+    ]
+   ]
+  },
+  {
+   "k": "sun",
+   "wd": "Sun",
+   "n": 8,
+   "tag": "Slower day, batch prep",
+   "note": "A relaxed day for a bigger cook. The meatball batch makes tonight's dinner AND Monday's quick therapy-night dinner.",
+   "am": [
+    "Make the pancakes (about 25 minutes) with yogurt, banana and a little maple.",
+    "Hard-boil 6 eggs for the snack lunch (10 minutes), cool and peel.",
+    "Take the slider rolls out of the freezer and put them in the fridge tonight."
+   ],
+   "pm": [
+    "1:00 pm: spread the strawberry yogurt bark on a pan and freeze it (2 hours).",
+    "3:30 pm: mix and roll the turkey meatballs (about 30) and bake them on two pans. Cook the ground turkey today or freeze it.",
+    "5:00 pm: boil the spaghetti, roast the broccoli and warm the sauce. Serve 15 meatballs and refrigerate the other 15 plus 1 jar of sauce within 2 hours for Monday.",
+    "Tonight: assemble the 5 jars of Maple Brown Sugar overnight oats for Monday."
+   ],
+   "meals": [
+    [
+     "Breakfast",
+     "Pancakes with yogurt and banana",
+     "",
+     "pancakes"
+    ],
+    [
+     "AM snack",
+     "Greek yogurt cup and granola",
+     "",
+     "s_yogurt_granola"
+    ],
+    [
+     "Lunch",
+     "Build-your-own snack lunch plate",
+     "Cheese, eggs, apples, carrots, Cheez-Its",
+     "snackbox"
+    ],
+    [
+     "PM snack",
+     "White cheddar popcorn, cheese and grapes",
+     "",
+     "s_popcorn"
+    ],
+    [
+     "Dinner",
+     "Turkey meatballs with spaghetti and roasted broccoli",
+     "Big batch, extras for Monday",
+     "meatballs"
+    ],
+    [
+     "Dessert",
+     "Strawberry yogurt bark",
+     "New item test",
+     "s_bark"
+    ]
+   ]
+  },
+  {
+   "k": "mon",
+   "wd": "Mon",
+   "n": 9,
+   "tag": "School day, therapy night",
+   "note": "Anna is out tonight, so dinner is 15 minutes using Sunday's meatballs. Easy for whoever is home.",
+   "am": [
+    "Grab the Maple Brown Sugar oat jars and top with chopped pecans and a tiny maple drizzle.",
+    "Make the cheese quesadillas for lunch (10 minutes), wrap in foil and pack with the dip and carrots.",
+    "Pack the snacks: mandarin and string cheese in the morning, carrots, ranch dip and pretzels for after school.",
+    "Check that the slider rolls are thawed in the fridge."
+   ],
+   "pm": [
+    "4:30 pm: warm the meatballs in the marinara, toast the rolls with mozzarella and fill the sliders (15 minutes). Dinner is ready before Anna heads out.",
+    "Tonight: assemble the 5 yogurt parfait cups for Tuesday breakfast."
+   ],
+   "meals": [
+    [
+     "Breakfast",
+     "Maple brown sugar overnight oats",
+     "Oats mix #5",
+     "oats5"
+    ],
+    [
+     "AM snack",
+     "Mandarin and string cheese",
+     "",
+     "s_mandarin_cheese"
+    ],
+    [
+     "Lunch",
+     "Cheese quesadillas with ranch dip and carrots",
+     "",
+     "quesadillas"
+    ],
+    [
+     "PM snack",
+     "Carrots, ranch yogurt dip and pretzels",
+     "",
+     "s_carrot_dip"
+    ],
+    [
+     "Dinner",
+     "Meatball sliders with carrot sticks",
+     "15 minutes, easy for whoever is home",
+     "sliders"
+    ],
+    [
+     "Dessert",
+     "Vanilla pudding yogurt cups",
+     "",
+     "pudding_van"
+    ]
+   ]
+  },
+  {
+   "k": "tue",
+   "wd": "Tue",
+   "n": 10,
+   "tag": "School day, crockpot tacos",
+   "note": "The taco chicken cooks itself all day. Tonight is build-your-own and the leftovers cover Thursday.",
+   "am": [
+    "Chicken thighs into the slow cooker by 9:30 with the spices and salsa, low for 6 to 7 hours.",
+    "Breakfast is the parfait cups from last night. Grab and go.",
+    "Make the grilled cheese for lunch, wrap in foil and pack with carrots and a mandarin.",
+    "Slice the 4 bananas and assemble the PB banana bites on a lined tray, then freeze them (they need 2 hours before the chocolate drizzle)."
+   ],
+   "pm": [
+    "After school: drizzle the melted chocolate over the banana bites and put them back in the freezer.",
+    "5:00 pm: shred the chicken, warm the tortillas and set out the toppings (15 minutes).",
+    "After dinner: refrigerate the leftover chicken (about 2 1/2 cups) within 2 hours for Thursday.",
+    "Tonight: assemble the 5 jars of Peanut Butter Banana overnight oats for Wednesday."
+   ],
+   "meals": [
+    [
+     "Breakfast",
+     "Greek yogurt parfaits with granola and banana",
+     "Made Monday night",
+     "parfait"
+    ],
+    [
+     "AM snack",
+     "Apple slices and string cheese",
+     "",
+     "s_apple_cheese"
+    ],
+    [
+     "Lunch",
+     "Grilled cheese and carrot sticks",
+     "",
+     "grilled_cheese"
+    ],
+    [
+     "PM snack",
+     "Cheez-Its and string cheese",
+     "",
+     "s_crackers_cheese"
+    ],
+    [
+     "Dinner",
+     "Crockpot chicken tacos (build your own)",
+     "Crockpot, hands-off",
+     "tacos"
+    ],
+    [
+     "Dessert",
+     "Frozen chocolate PB banana bites",
+     "",
+     "bites"
+    ]
+   ]
+  },
+  {
+   "k": "wed",
+   "wd": "Wed",
+   "n": 11,
+   "tag": "School day, oats morning",
+   "note": "Oats are ready, and dinner is garlic butter shrimp that has been waiting in the freezer.",
+   "am": [
+    "Grab the Peanut Butter Banana oat jars and top with banana slices and chocolate chips.",
+    "Cook the ditalini and toss with marinara and cheese. Pack the middle and youngest lunches in a thermos with carrot sticks.",
+    "Move the shrimp from the freezer to the fridge to thaw (or use a bowl of cold water for 20 minutes before cooking).",
+    "Pack the snacks: rice cake and peanut butter in the morning, carrots and ranch dip for after school."
+   ],
+   "pm": [
+    "4:45 pm: start the rice, roast the sweet potatoes and broccoli at 425 (25 minutes), then sear the shrimp in garlic butter for the last 5 minutes.",
+    "Tonight: bake the egg and pepper muffins for Thursday breakfast (20 minutes), cool and refrigerate."
+   ],
+   "meals": [
+    [
+     "Breakfast",
+     "Peanut butter banana overnight oats",
+     "Oats mix #1",
+     "oats1"
+    ],
+    [
+     "AM snack",
+     "Rice cake with peanut butter",
+     "",
+     "s_ricecake"
+    ],
+    [
+     "Lunch",
+     "Ditalini with marinara and cheese, carrot sticks",
+     "Thermos lunch",
+     "ditalini_marinara"
+    ],
+    [
+     "PM snack",
+     "Carrots, ranch yogurt dip and pretzels",
+     "",
+     "s_carrot_dip"
+    ],
+    [
+     "Dinner",
+     "Garlic butter shrimp over rice with roasted sweet potatoes and broccoli",
+     "Skillet plus sheet pan, 30 minutes",
+     "shrimp"
+    ],
+    [
+     "Dessert",
+     "Chocolate yogurt mousse cups",
+     "",
+     "mousse"
+    ]
+   ]
+  },
+  {
+   "k": "th2",
+   "wd": "Thu",
+   "n": 12,
+   "tag": "School day, bean night",
+   "note": "The leftover taco chicken makes today's lunch and tonight's rice bowls.",
+   "am": [
+    "Reheat the egg and pepper muffins in the microwave (30 seconds each) with a mandarin.",
+    "Make the chicken quesadillas for lunch, wrap in foil and pack with salsa and pepper strips.",
+    "Pack the snacks: mandarin and string cheese in the morning, popcorn, cheese and grapes for after school."
+   ],
+   "pm": [
+    "4:45 pm: cook the rice, warm the chicken with the spices, warm the beans and set out the toppings (20 minutes).",
+    "Tonight: nothing to prep for tomorrow beyond setting out the bread, peanut butter and bananas."
+   ],
+   "meals": [
+    [
+     "Breakfast",
+     "Egg and pepper muffins",
+     "Made Wednesday night",
+     "muffins"
+    ],
+    [
+     "AM snack",
+     "Mandarin and string cheese",
+     "",
+     "s_mandarin_cheese"
+    ],
+    [
+     "Lunch",
+     "Chicken quesadillas with salsa and pepper strips",
+     "Tuesday's taco chicken",
+     "chicken_quesadillas"
+    ],
+    [
+     "PM snack",
+     "White cheddar popcorn, cheese and grapes",
+     "",
+     "s_popcorn"
+    ],
+    [
+     "Dinner",
+     "Chicken and black bean rice bowls (build your own)",
+     "Bean meal of the week, 20 minutes",
+     "bowls"
+    ],
+    [
+     "Dessert",
+     "Pumpkin pie yogurt cups",
+     "New item test",
+     "pumpkin"
+    ]
+   ]
+  },
+  {
+   "k": "fr2",
+   "wd": "Fri",
+   "n": 13,
+   "tag": "School day, baked potato night",
+   "note": "Last day of the plan. The potatoes bake themselves and everyone loads their own.",
+   "am": [
+    "Make the peanut butter banana toast and set out a yogurt cup for each person.",
+    "Make the tortilla pizzas for lunch (8 minutes at 425), cool and pack with pepper strips.",
+    "Pack the snacks: apple slices and string cheese in the morning, pretzels, string cheese and a mandarin for after school.",
+    "Scrub and prick the potatoes and have them ready to bake at 4:00."
+   ],
+   "pm": [
+    "4:00 pm: potatoes in the oven at 425 (50 to 60 minutes).",
+    "5:00 pm: steam the broccoli and set out the cheese and yogurt toppings.",
+    "After dinner: eyeball what is left in the fridge and pantry for next week's ledger."
+   ],
+   "meals": [
+    [
+     "Breakfast",
+     "Peanut butter banana toast with a yogurt cup",
+     "",
+     "toast_pb"
+    ],
+    [
+     "AM snack",
+     "Apple slices and string cheese",
+     "",
+     "s_apple_cheese"
+    ],
+    [
+     "Lunch",
+     "Tortilla pizzas and pepper strips",
+     "",
+     "tortilla_pizza"
+    ],
+    [
+     "PM snack",
+     "Pretzels, string cheese and mandarin",
+     "",
+     "s_pretzel_cheese"
+    ],
+    [
+     "Dinner",
+     "Loaded baked potato bar",
+     "Oven, hands-off",
+     "potato_bar"
+    ],
+    [
+     "Dessert",
+     "Warm cinnamon apples with yogurt",
+     "",
+     "apples_cin"
     ]
    ]
   }
@@ -229,18 +505,59 @@
     "After dinner pull ALL the remaining meat off the bones and refrigerate within 2 hours (about 4 cups: 2 for Friday's chicken salad lunch and 2 for Friday's alfredo)."
    ]
   },
-  "parfait": {
-   "t": "Greek yogurt parfaits with granola and banana",
+  "pudding_choc": {
+   "t": "Chocolate pudding yogurt cups",
+   "s": "Serves 6",
+   "ing": [
+    "1 box (1 oz) sugar-free chocolate pudding mix",
+    "1 cup 2% milk",
+    "1 cup plain Greek yogurt",
+    "2 tbsp mini chocolate chips"
+   ],
+   "st": [
+    "Whisk the pudding mix with the milk for 1 minute, then stir in the yogurt until smooth.",
+    "Spoon into cups, chill 10 minutes and top with chips."
+   ]
+  },
+  "grits": {
+   "t": "Cheesy grits with bananas",
    "s": "Serves 5",
    "ing": [
-    "2 1/2 cups plain Greek yogurt",
-    "1 tsp vanilla",
-    "1 1/4 cups granola",
+    "1 cup grits (dry)",
+    "4 cups water",
+    "1/2 tsp salt",
+    "1 tbsp olive oil",
+    "1 cup shredded cheddar (grate from the block)",
+    "1/4 tsp garlic powder",
     "2 bananas, sliced"
    ],
    "st": [
-    "Stir the vanilla into the yogurt.",
-    "Layer yogurt, banana and granola in cups. Pack the granola separately if eating on the go."
+    "Boil the water with the salt, whisk in the grits and simmer on low 15 to 20 minutes, stirring often.",
+    "Stir in the olive oil, cheddar and garlic powder until melted.",
+    "Serve with banana slices on the side."
+   ]
+  },
+  "s_pretzel_string": {
+   "t": "Pretzels and string cheese",
+   "s": "Per person, x5",
+   "ing": [
+    "About 10 pretzels (1/2 oz)",
+    "1 string cheese stick"
+   ],
+   "st": [
+    "Pack or plate as listed."
+   ]
+  },
+  "chicken_wraps": {
+   "t": "Chicken salad wraps (adults) and kid chicken boxes",
+   "s": "Serves 6 (2 adults, 3 kid boxes plus a spare)",
+   "ing": [
+    "Adult wraps: 1 cup chopped chicken (from Thursday's crockpot chicken), 1/4 cup mayo, 1 tbsp grainy mustard, 2 celery ribs diced, 1 tbsp lemon juice, salt and pepper, 2 large tortillas",
+    "Kid boxes: 1 cup shredded plain chicken, 1 cup cheddar cubes, 1 1/2 cups Cheez-Its, 2 apples, sliced"
+   ],
+   "st": [
+    "Stir the salad ingredients together, spoon into the tortillas, roll up and cut in half.",
+    "Divide the kid chicken, cheese, Cheez-Its and apple slices into boxes. Keep the chicken cold in the lunchbox."
    ]
   },
   "s_mandarin_cheese": {
@@ -253,30 +570,6 @@
    ],
    "st": [
     "Pack or plate as listed."
-   ]
-  },
-  "chicken_salad": {
-   "t": "Chicken salad (adults) and kid chicken boxes",
-   "s": "Serves 6 (2 adults, 3 kid boxes plus a spare)",
-   "ing": [
-    "Adult salad: 1 cup chopped chicken (from Thursday's crockpot chicken), 1/4 cup mayo, 1 tbsp grainy mustard, 2 celery ribs diced, 1 tbsp lemon juice, salt and pepper, 4 slices bread",
-    "Kid boxes: 1 cup shredded plain chicken, 1 cup cheddar cubes, 1 1/2 cups Cheez-Its, 2 cups grapes"
-   ],
-   "st": [
-    "Stir the salad ingredients together and serve on bread.",
-    "Divide the kid chicken, cheese, Cheez-Its and grapes into boxes. Keep the chicken cold in the lunchbox."
-   ]
-  },
-  "s_carrot_dip": {
-   "t": "Carrots, ranch yogurt dip and pretzels",
-   "s": "Per person, x5",
-   "ing": [
-    "1/2 cup baby carrots",
-    "3 tbsp ranch dip (3/4 cup plain Greek yogurt plus 1 tbsp ranch seasoning for all 5)",
-    "About 10 pretzels"
-   ],
-   "st": [
-    "Stir the ranch seasoning into the yogurt and pack in small cups."
    ]
   },
   "alfredo": {
@@ -301,98 +594,6 @@
     "Toss the pasta and chicken in the sauce and serve with broccoli."
    ]
   },
-  "pudding_choc": {
-   "t": "Chocolate pudding yogurt cups",
-   "s": "Serves 6",
-   "ing": [
-    "1 box (1 oz) sugar-free chocolate pudding mix",
-    "1 cup 2% milk",
-    "1 cup plain Greek yogurt",
-    "2 tbsp mini chocolate chips"
-   ],
-   "st": [
-    "Whisk the pudding mix with the milk for 1 minute, then stir in the yogurt until smooth.",
-    "Spoon into cups, chill 10 minutes and top with chips."
-   ]
-  },
-  "oats5": {
-   "t": "Maple brown sugar overnight oats",
-   "s": "Serves 5 (5 jars)",
-   "ing": [
-    "3 3/4 cups oats",
-    "5 cups 2% milk",
-    "5 tbsp chia seeds",
-    "10 tbsp peanut butter",
-    "5 tsp real maple syrup",
-    "3 3/4 tsp cinnamon",
-    "1 1/4 tsp vanilla",
-    "Pinch of salt in each jar",
-    "Topping: 10 tbsp chopped pecans or walnuts and at most 1/2 tsp extra maple per jar"
-   ],
-   "st": [
-    "Per jar: 3/4 cup oats, 1 cup milk, 1 tbsp chia, 2 tbsp peanut butter, 1 tsp maple, 3/4 tsp cinnamon, 1/4 tsp vanilla and a pinch of salt. Add everything except the nuts and stir well, working the peanut butter in.",
-    "Refrigerate overnight (Thursday night).",
-    "Morning: stir, top with 2 tbsp chopped nuts and a tiny maple drizzle if needed."
-   ]
-  },
-  "s_yogurt_granola": {
-   "t": "Greek yogurt cup and granola",
-   "s": "Per person, x5",
-   "ing": [
-    "1 individual flavored Greek yogurt cup",
-    "2 tbsp granola"
-   ],
-   "st": [
-    "Pack the granola separately."
-   ]
-  },
-  "tortilla_pizza": {
-   "t": "Tortilla pizzas and pepper strips",
-   "s": "Serves 6",
-   "ing": [
-    "6 large tortillas",
-    "1 1/2 cups marinara",
-    "2 cups shredded mozzarella (grate from the block)",
-    "1 tsp Italian seasoning",
-    "1 bell pepper cut into strips, for the side"
-   ],
-   "st": [
-    "Heat the oven to 425. Put the tortillas on two sheet pans and bake 2 minutes to crisp the base.",
-    "Spread with sauce, top with cheese and seasoning and bake 6 to 8 minutes until bubbly. Cool before packing.",
-    "Serve with pepper strips."
-   ]
-  },
-  "s_popcorn": {
-   "t": "White cheddar popcorn, cheese and grapes",
-   "s": "Per person, x5",
-   "ing": [
-    "1 cup white cheddar popcorn",
-    "1 string cheese stick",
-    "1/2 cup grapes"
-   ],
-   "st": [
-    "Pack or plate as listed."
-   ]
-  },
-  "salmon": {
-   "t": "Soy-maple salmon over rice with roasted veggies",
-   "s": "Serves 6",
-   "ing": [
-    "2 lb salmon fillets, thawed in the fridge",
-    "3 tbsp liquid aminos",
-    "2 tbsp maple syrup",
-    "1 tbsp olive oil",
-    "1/2 tsp garlic powder",
-    "1 bag frozen stir-fry veggies, roasted (not stir-fried)",
-    "1 tbsp olive oil and 1/2 tsp salt for the veggies",
-    "2 cups long grain white rice and 4 cups water"
-   ],
-   "st": [
-    "Heat the oven to 425. Cook the rice.",
-    "Roast the frozen veggies on one pan with 1 tbsp oil and the salt for 15 to 18 minutes.",
-    "Whisk the aminos, maple, 1 tbsp oil and garlic powder, put the salmon on a second pan and brush on the glaze. Roast 10 to 12 minutes until it flakes (145). Serve over rice with the veggies."
-   ]
-  },
   "peaches": {
    "t": "Peaches and cream cups",
    "s": "Serves 6",
@@ -408,24 +609,22 @@
     "Layer peaches and yogurt in cups and top with granola."
    ]
   },
-  "oats1": {
-   "t": "Peanut butter banana overnight oats",
-   "s": "Serves 5 (5 jars)",
+  "scramble": {
+   "t": "Scrambled eggs, cheese and toast",
+   "s": "Serves 5",
    "ing": [
-    "3 3/4 cups oats",
-    "5 cups 2% milk",
-    "5 tbsp chia seeds",
-    "2 1/2 ripe bananas, mashed",
-    "10 tbsp peanut butter",
-    "2 1/2 tsp cinnamon",
-    "1 1/4 tsp vanilla",
-    "Pinch of salt in each jar",
-    "Topping: 1 banana, sliced, and optional 5 tbsp mini chocolate chips"
+    "10 eggs",
+    "1/4 cup 2% milk",
+    "1/2 tsp salt",
+    "1 tbsp butter",
+    "1 cup shredded cheddar (grate from the block)",
+    "5 slices sandwich bread, toasted",
+    "5 mandarins"
    ],
    "st": [
-    "Per jar: 3/4 cup oats, 1 cup milk, 1 tbsp chia, 1/2 mashed banana, 2 tbsp peanut butter, 1/2 tsp cinnamon, 1/4 tsp vanilla and a pinch of salt. Mash the banana in the jar first, add the rest and stir well.",
-    "Refrigerate overnight (Friday night).",
-    "Morning: stir, top with banana slices and chocolate chips for whoever wants them."
+    "Whisk the eggs with the milk and salt.",
+    "Melt the butter in a large skillet over medium-low, add the eggs and stir gently until almost set, then fold in the cheese and take off the heat.",
+    "Serve with toast and a mandarin."
    ]
   },
   "s_ricecake": {
@@ -467,6 +666,25 @@
     "Pack or plate as listed."
    ]
   },
+  "salmon": {
+   "t": "Soy-maple salmon over rice with roasted veggies",
+   "s": "Serves 6",
+   "ing": [
+    "2 lb salmon fillets, thawed in the fridge",
+    "3 tbsp liquid aminos",
+    "2 tbsp maple syrup",
+    "1 tbsp olive oil",
+    "1/2 tsp garlic powder",
+    "1 bag frozen stir-fry veggies, roasted (not stir-fried)",
+    "1 tbsp olive oil and 1/2 tsp salt for the veggies",
+    "2 cups long grain white rice and 4 cups water"
+   ],
+   "st": [
+    "Heat the oven to 425. Cook the rice.",
+    "Roast the frozen veggies on one pan with 1 tbsp oil and the salt for 15 to 18 minutes.",
+    "Whisk the aminos, maple, 1 tbsp oil and garlic powder, put the salmon on a second pan and brush on the glaze. Roast 10 to 12 minutes until it flakes (145). Serve over rice with the veggies."
+   ]
+  },
   "brownies": {
    "t": "Cocoa brownie bites",
    "s": "Serves 6 (12 bites)",
@@ -486,14 +704,482 @@
     "Whisk the butter, sugar, eggs and vanilla, then stir in the dry ingredients and chips.",
     "Fill the cups and bake 18 to 20 minutes. Cool in the tin. Serve 2 each."
    ]
+  },
+  "pancakes": {
+   "t": "Pancakes with yogurt and banana",
+   "s": "Serves 5 (about 15 pancakes)",
+   "ing": [
+    "2 1/2 cups all-purpose flour",
+    "2 tbsp sugar",
+    "4 tsp baking powder",
+    "1/2 tsp salt",
+    "2 1/2 cups 2% milk",
+    "2 eggs",
+    "3 tbsp melted butter or olive oil",
+    "1 tsp vanilla",
+    "1 1/4 cups plain Greek yogurt (1/4 cup each)",
+    "Maple syrup and 1 banana, sliced, for topping"
+   ],
+   "st": [
+    "Whisk the dry ingredients. Whisk the milk, eggs, butter and vanilla, then stir into the dry just until combined.",
+    "Cook 1/4 cup scoops on a medium skillet 2 to 3 minutes per side.",
+    "Serve each plate with a dollop of yogurt for protein, banana slices and a little maple syrup."
+   ]
+  },
+  "s_yogurt_granola": {
+   "t": "Greek yogurt cup and granola",
+   "s": "Per person, x5",
+   "ing": [
+    "1 individual flavored Greek yogurt cup",
+    "2 tbsp granola"
+   ],
+   "st": [
+    "Pack the granola separately."
+   ]
+  },
+  "snackbox": {
+   "t": "Build-your-own snack lunch plate",
+   "s": "Serves 6",
+   "ing": [
+    "1 1/2 cups cheddar cubes (6 oz)",
+    "6 hard-boiled eggs",
+    "1 1/2 cups Cheez-Its",
+    "3 apples, sliced",
+    "2 cups baby carrots",
+    "3/4 cup plain Greek yogurt mixed with 1 tbsp ranch seasoning, for dipping"
+   ],
+   "st": [
+    "Boil the eggs 10 minutes, cool in ice water and peel.",
+    "Put everything out on a platter or cutting board so everyone builds their own plate."
+   ]
+  },
+  "s_popcorn": {
+   "t": "White cheddar popcorn, cheese and grapes",
+   "s": "Per person, x5",
+   "ing": [
+    "1 cup white cheddar popcorn",
+    "1 string cheese stick",
+    "1/2 cup grapes"
+   ],
+   "st": [
+    "Pack or plate as listed."
+   ]
+  },
+  "meatballs": {
+   "t": "Turkey meatballs with spaghetti and roasted broccoli",
+   "s": "Serves 6, plus 15 extra meatballs and 1 jar of sauce for Monday",
+   "ing": [
+    "2 lb ground turkey",
+    "3/4 cup old-fashioned oats",
+    "1/4 cup 2% milk",
+    "2 eggs",
+    "1 tsp garlic powder",
+    "1 tsp Italian seasoning",
+    "1 1/2 tsp salt",
+    "1/2 tsp pepper",
+    "1 tbsp olive oil for the pans",
+    "1 lb spaghetti",
+    "2 jars (24 oz each) marinara",
+    "1 bag (12 oz) frozen broccoli",
+    "1 tbsp olive oil and a pinch of salt for the broccoli"
+   ],
+   "st": [
+    "Heat the oven to 400 and oil two sheet pans.",
+    "Mix the turkey, oats, milk, eggs and seasonings gently with your hands (do not overmix). Roll into about 30 golf-ball-size meatballs and divide between the pans.",
+    "Bake 18 to 20 minutes until 165 inside. Roast the broccoli on a third pan or between the meatballs for the last 18 minutes.",
+    "Boil the spaghetti and drain. Warm 1 jar of marinara and toss half the sauce through the pasta.",
+    "Serve 15 meatballs over spaghetti with extra sauce and the broccoli. Within 2 hours refrigerate the other 15 meatballs and the second jar of marinara (about 3 cups) for Monday."
+   ]
+  },
+  "s_bark": {
+   "t": "Strawberry yogurt bark",
+   "s": "Serves 6 (new item test)",
+   "ing": [
+    "1 1/2 cups plain Greek yogurt",
+    "1 tbsp maple syrup",
+    "1 tsp vanilla",
+    "1 cup thawed frozen strawberries, chopped and patted dry",
+    "1/4 cup mini chocolate chips"
+   ],
+   "st": [
+    "Stir the maple and vanilla into the yogurt and spread 1/4 inch thick on a parchment-lined sheet pan.",
+    "Scatter the strawberries and chocolate chips on top. Freeze 2 hours (start it after lunch), break into pieces and serve right away."
+   ]
+  },
+  "oats5": {
+   "t": "Maple brown sugar overnight oats",
+   "s": "Serves 5 (5 jars)",
+   "ing": [
+    "3 3/4 cups oats",
+    "5 cups 2% milk",
+    "5 tbsp chia seeds",
+    "10 tbsp peanut butter",
+    "5 tsp real maple syrup",
+    "3 3/4 tsp cinnamon",
+    "1 1/4 tsp vanilla",
+    "Pinch of salt in each jar",
+    "Topping: 10 tbsp chopped pecans or walnuts and at most 1/2 tsp extra maple per jar"
+   ],
+   "st": [
+    "Per jar: 3/4 cup oats, 1 cup milk, 1 tbsp chia, 2 tbsp peanut butter, 1 tsp maple, 3/4 tsp cinnamon, 1/4 tsp vanilla and a pinch of salt. Add everything except the nuts and stir well, working the peanut butter in.",
+    "Refrigerate overnight (Sunday night).",
+    "Morning: stir, top with 2 tbsp chopped nuts and a tiny maple drizzle if needed."
+   ]
+  },
+  "quesadillas": {
+   "t": "Cheese quesadillas with ranch dip and carrots",
+   "s": "Serves 6",
+   "ing": [
+    "6 large tortillas",
+    "2 1/2 cups shredded cheddar (grate from the block)",
+    "1 tbsp olive oil",
+    "Dip: 1 cup plain Greek yogurt and 1 tbsp ranch seasoning",
+    "3 cups baby carrots"
+   ],
+   "st": [
+    "Sprinkle cheese over half of each tortilla and fold over.",
+    "Toast in an oiled skillet 2 to 3 minutes per side. Cut into wedges.",
+    "Stir the ranch seasoning into the yogurt for the dip. Serve with carrots."
+   ]
+  },
+  "s_carrot_dip": {
+   "t": "Carrots, ranch yogurt dip and pretzels",
+   "s": "Per person, x5",
+   "ing": [
+    "1/2 cup baby carrots",
+    "3 tbsp ranch dip (3/4 cup plain Greek yogurt plus 1 tbsp ranch seasoning for all 5)",
+    "About 10 pretzels"
+   ],
+   "st": [
+    "Stir the ranch seasoning into the yogurt and pack in small cups."
+   ]
+  },
+  "sliders": {
+   "t": "Meatball sliders with carrot sticks",
+   "s": "Serves 6 (15 minutes, easy for whoever is home)",
+   "ing": [
+    "15 leftover turkey meatballs (from Sunday)",
+    "About 3 cups leftover marinara (1 jar)",
+    "6 slider rolls (from the freezer, thawed in the fridge overnight)",
+    "1 1/2 cups shredded mozzarella (grate from the block)",
+    "3 cups carrot sticks"
+   ],
+   "st": [
+    "Warm the meatballs in the marinara in a covered pan over medium 10 minutes.",
+    "Split the rolls, add mozzarella and toast under the broiler 1 to 2 minutes.",
+    "Fill each roll with 2 to 3 meatballs and sauce. Serve with carrots."
+   ]
+  },
+  "pudding_van": {
+   "t": "Vanilla pudding yogurt cups",
+   "s": "Serves 6",
+   "ing": [
+    "1 box (1 oz) sugar-free vanilla pudding mix",
+    "1 cup 2% milk",
+    "1 cup plain Greek yogurt",
+    "1/4 cup granola, crushed"
+   ],
+   "st": [
+    "Whisk the pudding mix with the milk for 1 minute, then stir in the yogurt until smooth.",
+    "Spoon into cups, chill 10 minutes and top with granola."
+   ]
+  },
+  "parfait": {
+   "t": "Greek yogurt parfaits with granola and banana",
+   "s": "Serves 5",
+   "ing": [
+    "2 1/2 cups plain Greek yogurt",
+    "1 tsp vanilla",
+    "1 1/4 cups granola",
+    "2 bananas, sliced"
+   ],
+   "st": [
+    "Stir the vanilla into the yogurt.",
+    "Layer yogurt, banana and granola in cups. Assemble Monday night and keep the granola in a separate cup until morning."
+   ]
+  },
+  "s_apple_cheese": {
+   "t": "Apple slices and string cheese",
+   "s": "Per person, x5",
+   "ing": [
+    "1/2 apple, sliced",
+    "1 string cheese stick"
+   ],
+   "st": [
+    "Pack or plate as listed. A squeeze of lemon keeps the apple from browning."
+   ]
+  },
+  "grilled_cheese": {
+   "t": "Grilled cheese and carrot sticks",
+   "s": "Serves 6",
+   "ing": [
+    "12 slices sandwich bread",
+    "12 thin slices cheddar (cut from the block, about 8 oz)",
+    "2 tbsp butter",
+    "3 cups baby carrots",
+    "6 mandarins"
+   ],
+   "st": [
+    "Build 6 sandwiches, butter the outsides and toast in a skillet 3 minutes per side.",
+    "Serve with carrots and a mandarin."
+   ]
+  },
+  "s_crackers_cheese": {
+   "t": "Cheez-Its and string cheese",
+   "s": "Per person, x5",
+   "ing": [
+    "1/2 cup Cheez-Its (about 20 crackers)",
+    "1 string cheese stick"
+   ],
+   "st": [
+    "Pack or plate as listed."
+   ]
+  },
+  "tacos": {
+   "t": "Crockpot chicken tacos (build your own)",
+   "s": "Serves 6, with chicken left over for Thursday",
+   "ing": [
+    "3 lb boneless skinless chicken thighs",
+    "1 cup salsa",
+    "1 tbsp chili powder",
+    "1 tsp cumin",
+    "1 tsp garlic powder",
+    "1 tsp paprika",
+    "1 tsp salt",
+    "1/2 cup water",
+    "12 small flour tortillas",
+    "Toppings: 2 cups shredded cheddar, 1 cup salsa, 2 avocados diced, 3/4 cup plain Greek yogurt (instead of sour cream), tortilla chips"
+   ],
+   "st": [
+    "Morning: put the thighs in the slow cooker, sprinkle on the spices and pour the salsa and water over. Cook on low 6 to 7 hours until it shreds easily (165 minimum).",
+    "Shred the chicken in the juices. Warm the tortillas in a dry skillet or the microwave.",
+    "Set out the toppings so everyone builds their own tacos. Refrigerate the leftover chicken (about 2 1/2 cups) within 2 hours for Thursday."
+   ]
+  },
+  "bites": {
+   "t": "Frozen chocolate PB banana bites",
+   "s": "Serves 6",
+   "ing": [
+    "4 bananas, sliced 1/2 inch thick",
+    "1/2 cup peanut butter",
+    "1/2 cup chocolate chips",
+    "1 tsp olive oil"
+   ],
+   "st": [
+    "Morning: spread peanut butter on half the slices and top with the rest to make 12 sandwiches. Freeze on a lined tray 2 hours.",
+    "After school: melt the chips with the oil, drizzle over the bites and freeze again 10 minutes. Serve 2 each."
+   ]
+  },
+  "oats1": {
+   "t": "Peanut butter banana overnight oats",
+   "s": "Serves 5 (5 jars)",
+   "ing": [
+    "3 3/4 cups oats",
+    "5 cups 2% milk",
+    "5 tbsp chia seeds",
+    "2 1/2 ripe bananas, mashed",
+    "10 tbsp peanut butter",
+    "2 1/2 tsp cinnamon",
+    "1 1/4 tsp vanilla",
+    "Pinch of salt in each jar",
+    "Topping: 1 banana, sliced, and optional 5 tbsp mini chocolate chips"
+   ],
+   "st": [
+    "Per jar: 3/4 cup oats, 1 cup milk, 1 tbsp chia, 1/2 mashed banana, 2 tbsp peanut butter, 1/2 tsp cinnamon, 1/4 tsp vanilla and a pinch of salt. Mash the banana in the jar first, add the rest and stir well.",
+    "Refrigerate overnight (Tuesday night).",
+    "Morning: stir, top with banana slices and chocolate chips for whoever wants them."
+   ]
+  },
+  "ditalini_marinara": {
+   "t": "Ditalini with marinara and cheese, carrot sticks",
+   "s": "Serves 6",
+   "ing": [
+    "12 oz ditalini",
+    "1 1/2 cups marinara",
+    "3/4 cup shredded mozzarella (grate from the block)",
+    "1 tbsp olive oil",
+    "1/2 tsp Italian seasoning",
+    "3 cups baby carrots"
+   ],
+   "st": [
+    "Boil the ditalini and drain, saving 1/4 cup of the water.",
+    "Warm the marinara with the olive oil and Italian seasoning, toss with the pasta and a splash of the water.",
+    "Stir in the mozzarella until melty. Pack in a thermos with carrot sticks on the side."
+   ]
+  },
+  "shrimp": {
+   "t": "Garlic butter shrimp over rice with roasted sweet potatoes and broccoli",
+   "s": "Serves 6",
+   "ing": [
+    "1 1/2 lb raw peeled medium shrimp, thawed (use whatever the bag holds)",
+    "3 tbsp butter",
+    "1 tbsp olive oil",
+    "1 tsp garlic powder",
+    "1 tbsp lemon juice",
+    "1/2 tsp salt and 1/4 tsp pepper",
+    "2 cups long grain white rice and 4 cups water",
+    "1 tbsp butter for the rice",
+    "1 bag chopped frozen sweet potatoes",
+    "1 bag (12 oz) frozen broccoli",
+    "1 tbsp olive oil and 1/2 tsp salt for the veggies"
+   ],
+   "st": [
+    "Heat the oven to 425. Spread the sweet potatoes and broccoli on a sheet pan with the oil and salt and roast 25 minutes, stirring once. Cook the rice with the water and butter.",
+    "Pat the shrimp dry. Melt the butter with the olive oil in a large skillet over medium-high, add the shrimp and garlic powder and sear 2 minutes per side until pink.",
+    "Stir in the lemon juice, salt and pepper. Serve over rice with the veggies and spoon the pan butter over the top."
+   ]
+  },
+  "mousse": {
+   "t": "Chocolate yogurt mousse cups",
+   "s": "Serves 6",
+   "ing": [
+    "1 1/2 cups plain Greek yogurt",
+    "3 tbsp unsweetened cocoa powder",
+    "3 tbsp maple syrup",
+    "1 tsp vanilla",
+    "2 tbsp 2% milk",
+    "2 tbsp mini chocolate chips"
+   ],
+   "st": [
+    "Whisk the cocoa, maple, vanilla and milk into the yogurt until smooth.",
+    "Spoon into cups, chill 15 minutes and top with chips."
+   ]
+  },
+  "muffins": {
+   "t": "Egg and pepper muffins",
+   "s": "Serves 5 (10 muffins, 2 each)",
+   "ing": [
+    "10 eggs",
+    "1/4 cup 2% milk",
+    "1/2 tsp salt",
+    "1/2 cup finely diced bell pepper",
+    "1 cup shredded cheddar",
+    "1 tbsp olive oil to grease the tin",
+    "5 mandarins"
+   ],
+   "st": [
+    "Heat the oven to 375. Grease a 12-cup muffin tin with the olive oil.",
+    "Whisk the eggs, milk and salt, stir in the pepper and cheese, and fill 10 cups about 3/4 full.",
+    "Bake 18 to 20 minutes until set. Cool and refrigerate (made Wednesday night).",
+    "Thursday: microwave 30 seconds each and serve with a mandarin."
+   ]
+  },
+  "chicken_quesadillas": {
+   "t": "Chicken quesadillas with salsa and pepper strips",
+   "s": "Serves 6",
+   "ing": [
+    "6 large tortillas",
+    "1 cup shredded chicken (from Tuesday's tacos)",
+    "2 cups shredded cheddar (grate from the block)",
+    "1 tbsp olive oil",
+    "1/2 cup salsa for dipping",
+    "1 bell pepper cut into strips"
+   ],
+   "st": [
+    "Sprinkle cheese and chicken over half of each tortilla and fold over.",
+    "Toast in an oiled skillet 2 to 3 minutes per side. Cut into wedges.",
+    "Serve with salsa and pepper strips."
+   ]
+  },
+  "bowls": {
+   "t": "Chicken and black bean rice bowls (build your own)",
+   "s": "Serves 6 (the bean meal of the week, 20 minutes)",
+   "ing": [
+    "1 1/2 cups shredded chicken (from Tuesday's tacos)",
+    "2 cans (15 oz) black beans, drained and rinsed",
+    "2 cups long grain white rice and 4 cups water",
+    "1 tsp cumin",
+    "1 tsp chili powder",
+    "1/2 tsp salt",
+    "Toppings: 1 1/2 cups shredded cheddar, 1 cup salsa, 1 avocado diced, crushed tortilla chips"
+   ],
+   "st": [
+    "Cook the rice. Warm the chicken in a pan with the cumin, chili powder, salt and a splash of water. Warm the beans separately.",
+    "Set everything out so each person builds a bowl (the middle kid can skip the beans)."
+   ]
+  },
+  "pumpkin": {
+   "t": "Pumpkin pie yogurt cups",
+   "s": "Serves 6 (new item test)",
+   "ing": [
+    "1 cup plain canned pumpkin (not pie filling)",
+    "1 1/2 cups plain Greek yogurt",
+    "3 tbsp maple syrup",
+    "1 1/2 tsp cinnamon",
+    "1/4 tsp nutmeg",
+    "1 tsp vanilla",
+    "1/4 cup granola, crushed"
+   ],
+   "st": [
+    "Stir the pumpkin, maple, spices and vanilla into the yogurt until smooth.",
+    "Spoon into cups, chill 15 minutes and top with granola."
+   ]
+  },
+  "toast_pb": {
+   "t": "Peanut butter banana toast with a yogurt cup",
+   "s": "Serves 5",
+   "ing": [
+    "5 slices sandwich bread, toasted",
+    "5 tbsp peanut butter",
+    "2 1/2 bananas, sliced",
+    "5 individual flavored Greek yogurt cups"
+   ],
+   "st": [
+    "Spread the peanut butter on the toast and top with banana slices.",
+    "Serve each plate with a yogurt cup for extra protein."
+   ]
+  },
+  "tortilla_pizza": {
+   "t": "Tortilla pizzas and pepper strips",
+   "s": "Serves 6",
+   "ing": [
+    "6 large tortillas",
+    "1 1/2 cups marinara",
+    "2 cups shredded mozzarella (grate from the block)",
+    "1 tsp Italian seasoning",
+    "1 bell pepper cut into strips, for the side"
+   ],
+   "st": [
+    "Heat the oven to 425. Put the tortillas on two sheet pans and bake 2 minutes to crisp the base.",
+    "Spread with sauce, top with cheese and seasoning and bake 6 to 8 minutes until bubbly. Cool before packing.",
+    "Serve with pepper strips."
+   ]
+  },
+  "potato_bar": {
+   "t": "Loaded baked potato bar",
+   "s": "Serves 6",
+   "ing": [
+    "6 large russet potatoes (about 4 lb)",
+    "1 tbsp olive oil and 1 tsp salt for the potatoes",
+    "2 cups shredded cheddar (grate from the block)",
+    "1 1/2 cups plain Greek yogurt (instead of sour cream)",
+    "1 bag (12 oz) frozen broccoli, steamed",
+    "Salt and pepper to taste"
+   ],
+   "st": [
+    "Heat the oven to 425. Scrub and prick the potatoes, rub with the oil and salt and bake directly on the rack 50 to 60 minutes until soft.",
+    "Steam the broccoli for 5 minutes in the last half hour.",
+    "Split the potatoes and set out the cheese, yogurt and broccoli so everyone loads their own."
+   ]
+  },
+  "apples_cin": {
+   "t": "Warm cinnamon apples with yogurt",
+   "s": "Serves 6",
+   "ing": [
+    "4 apples, diced",
+    "1 tbsp butter",
+    "1 tsp cinnamon",
+    "1 tbsp maple syrup",
+    "1 1/2 cups plain Greek yogurt",
+    "1/4 cup granola"
+   ],
+   "st": [
+    "Melt the butter in a skillet over medium, add the apples, cinnamon and maple and cook 6 to 8 minutes until tender.",
+    "Spoon over bowls of yogurt and top with granola."
+   ]
   }
  },
  "dinners": [
-  [
-   "Wed 4",
-   "Frozen pizzas",
-   "Oven"
-  ],
   [
    "Thu 5",
    "Crockpot whole chicken, pepper rice, broccoli",
@@ -508,82 +1194,228 @@
    "Sat 7",
    "Soy-maple salmon, rice, roasted veggies",
    "Sheet pan"
+  ],
+  [
+   "Sun 8",
+   "Turkey meatballs, spaghetti, broccoli",
+   "Sheet pan + pot"
+  ],
+  [
+   "Mon 9",
+   "Meatball sliders, carrot sticks",
+   "Quick, 15 min"
+  ],
+  [
+   "Tue 10",
+   "Crockpot chicken tacos, build your own",
+   "Crockpot"
+  ],
+  [
+   "Wed 11",
+   "Garlic butter shrimp, rice, sweet potatoes, broccoli",
+   "Skillet + sheet pan"
+  ],
+  [
+   "Thu 12",
+   "Chicken and black bean rice bowls",
+   "One pot"
+  ],
+  [
+   "Fri 13",
+   "Loaded baked potato bar",
+   "Oven"
   ]
  ],
- "method": "Pizza night Wed, 1 crockpot night (Thu), 1 quick one-pot night (Fri) and 1 sheet-pan night (Sat). Dinner is on the table about 5:30 every night.",
- "desserts": "Wed Halloween candy and leftover cookies, Thu chocolate pudding yogurt cups, Fri peaches and cream cups, Sat cocoa brownie bites.",
+ "method": "3 crockpot or hands-off nights (Thu chicken, Tue tacos, Fri baked potatoes), 3 sheet-pan nights (Sat salmon, Sun meatballs, Wed shrimp), and 3 quick nights (Fri alfredo, Mon sliders for therapy night, Thu bowls). Dinner is on the table about 5:30.",
+ "desserts": "Thu chocolate pudding yogurt cups, Fri peaches and cream, Sat cocoa brownie bites, Sun strawberry yogurt bark (new), Mon vanilla pudding yogurt cups, Tue frozen PB banana bites, Wed chocolate yogurt mousse, Thu pumpkin pie yogurt cups (new), Fri warm cinnamon apples with yogurt.",
  "pantry": [
-  "Groceries are due Wednesday by 5:30 CT. Put cold items away first.",
-  "Whole chicken: confirm it is raw and thawed in the fridge (not frozen) before Thursday 9:30.",
-  "Toss the cooked pork and chicken left from Week 10 (8 to 9 days old).",
+  "Tonight's dinner and dessert ingredients are in the house and in use. Nothing on the shopping list is for tonight.",
+  "Groceries arrive Friday 10 am to 1 pm. Breakfast and school lunches Friday run on what is on hand (grits, bananas, chicken, cheddar, Cheez-Its, apples, pretzels, string cheese).",
+  "Ground turkey: cook Sunday or freeze it Friday.",
   "Frozen salmon: move to the fridge Friday night for Saturday dinner.",
-  "Shrimp stays in the freezer this week (no dinner for it). It is first in line next week.",
-  "Shells and cheese: Saturday lunch needs 2 boxes. Check the shelf.",
-  "Eggs: about 2 on hand, which Saturday's brownie bites use.",
-  "Eyeball before Thursday night: peanut butter (oats need about 20 tbsp across Friday and Saturday), chia, chocolate chips, granola.",
-  "Frozen broccoli: the plan uses about 4 bags (Thu 2, Fri 2) plus 1 for Saturday lunch."
+  "Slider rolls: move from the freezer to the fridge Sunday night.",
+  "Shrimp: move to the fridge Wednesday morning.",
+  "Eyeball before Monday: chia, granola, peanut butter, chocolate chips (oats mornings Monday and Wednesday).",
+  "Frozen broccoli: the plan uses 6 bags after tonight (alfredo 2, Saturday lunch 1, Sunday 1, Wednesday 1, Friday 11/13 1).",
+  "Remove the frozen cheese pizzas from the Aldi cart if they are still in it."
  ],
  "shop": [
   {
    "h": "Produce",
    "items": [
-    "Bananas, 2 bunches (organic if within $1 of regular). Plan uses about 5 1/2.",
-    "Grapes, purple, 2 lb loose, cheapest brand (about 4 1/2 cups on Friday)",
-    "Mandarin oranges, 1 bag (10 needed for snacks Thursday and Saturday)",
-    "Baby carrots, 1 bag, 2 lb (Thursday dip snack)",
-    "Bell peppers, 3-count multipack (Thursday pizza strips, plus the middle kiddo's snack)"
+    {
+     "t": "Bananas, 2 bunches (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Grapes, purple, 2 lb loose (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Mandarin oranges, 1 bag (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Baby carrots, 1 bag, 2 lb (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Bell peppers, 3-count multipack (in cart)",
+     "c": 1
+    },
+    "ADD: Bananas, 1 more bunch (15 needed across the plan)",
+    "ADD: Apples, organic Honeycrisp or Pink Lady, 2 bags of 3 lb (about 17 needed)",
+    "ADD: Mandarin oranges, 2 more bags (about 36 needed)",
+    "ADD: Baby carrots, 2 more bags, 2 lb each (about 15 cups needed)",
+    "ADD: Avocados, 1 more (tacos 2, bowls 1)",
+    "ADD: Russet potatoes, 1 bag, 5 lb (Friday 11/13 potato bar)"
+   ]
+  },
+  {
+   "h": "Proteins",
+   "items": [
+    "ADD: Ground turkey, 2 lb (Sunday meatballs, cook by Sunday or freeze Friday)",
+    "ADD: Boneless skinless chicken thighs, 3 lb (Tuesday tacos, leftovers for Thursday)"
    ]
   },
   {
    "h": "Dairy and eggs",
    "items": [
-    "Plain Greek yogurt, 2 tubs, 32 oz each (about 6 3/4 cups: parfaits, dip, pudding cups, peaches)",
-    "Flavored Greek yogurt cups, 1 four-pack (Friday snack needs 5, about 2 on hand)",
-    "String cheese, 1 pack of 12 (15 sticks needed, about 11 on hand)",
-    "Mozzarella, 16 oz block (tortilla pizzas need 8 oz, about 4 oz on hand)",
-    "Cheddar, 16 oz block (weekly staple, kid chicken boxes use 4 oz)",
-    "2% milk, 1 gallon (oats use 10 cups, plus shells and pudding)",
-    "Half & half, 16 oz carton (weekly staple)",
-    "Eggs, organic, 1 dozen (brownies need 2; this is a 4-day week, so 1 dozen, not the usual 2 to 3)"
+    {
+     "t": "Plain Greek yogurt, 2 tubs, 32 oz (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Flavored Greek yogurt cups, 1 four-pack (in cart)",
+     "c": 1
+    },
+    {
+     "t": "String cheese, 1 pack of 12 (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Mozzarella, 16 oz block (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Cheddar, 16 oz block (in cart)",
+     "c": 1
+    },
+    {
+     "t": "2% milk, 1 gallon (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Half & half, 16 oz carton (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Eggs, organic, 1 dozen (in cart)",
+     "c": 1
+    },
+    "ADD: Plain Greek yogurt, 3 more tubs, 32 oz each (about 16 cups needed)",
+    "ADD: Flavored Greek yogurt cups, 1 more four-pack (10 needed)",
+    "ADD: String cheese, 3 more packs of 12 (about 55 sticks needed)",
+    "ADD: Cheddar, 3 more 16 oz blocks (about 64 oz needed)",
+    "ADD: 2% milk, 1 more gallon (oats, pancakes, pudding)",
+    "ADD: Butter, 1 lb (brownies, shells, rice, shrimp, pancakes)",
+    "ADD: Eggs, organic, 2 more dozen (about 30 needed)"
    ]
   },
   {
    "h": "Pantry and dry goods",
    "items": [
-    "Old-fashioned oats, 1 canister (7 1/2 cups needed for Friday and Saturday oats, about half a canister on hand)",
-    "Granola, 1 bag (about 2 3/4 cups needed)",
-    "Peanut butter, 1 jar (about 24 tbsp needed, about 9 on hand)",
-    "Chia seeds, 1 bag (10 tbsp needed, probably low)",
-    "Pecans or walnuts, 1 small bag (10 tbsp chopped for Friday's oats)",
-    "Pretzels, 1 bag (about 100 pretzels needed, about 6 oz on hand)",
-    "Marinara, 24 oz jar (tortilla pizzas, the jar on hand is borderline)",
-    "Tortillas, large, 1 package (6 for Thursday's pizzas)",
-    "Sandwich bread, 1 loaf (chicken salad needs 4 slices, about 3 on hand). Nature's Own is your usual, so check whether Aldi has a similar loaf.",
-    "Sugar-free chocolate pudding mix, 1 box (Thursday dessert)",
-    "Mini chocolate chips, 1 bag (about 1 cup across pudding, rice cakes, brownies and oats)",
-    "Canned peaches in juice, 1 can, 15 oz (Friday dessert needs 2, about 1 to 2 on hand)",
-    "Shells and cheese, 1 box (Saturday lunch needs 2, you have 1 to 2)"
+    {
+     "t": "Old-fashioned oats, 1 canister (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Granola, 1 bag (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Peanut butter, 1 jar (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Chia seeds, 1 bag (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Pecans or walnuts, 1 small bag (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Pretzels, 1 bag (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Marinara, 24 oz jar (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Tortillas, large, 1 package (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Sandwich bread, 1 loaf (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Sugar-free chocolate pudding mix (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Mini chocolate chips, 1 bag (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Canned peaches in juice, 1 can (in cart)",
+     "c": 1
+    },
+    {
+     "t": "Shells and cheese, 1 box (in cart)",
+     "c": 1
+    },
+    "ADD: Spaghetti, 1 lb (Sunday meatballs)",
+    "ADD: Marinara, 2 more 24 oz jars (Sunday, Monday, Wednesday, Friday 11/13)",
+    "ADD: Small flour tortillas for tacos, 1 pack of 12 or more",
+    "ADD: Large flour tortillas, 1 more package (about 20 needed)",
+    "ADD: Sandwich bread, 1 more loaf (about 22 slices needed)",
+    "ADD: Peanut butter, 1 more jar (about 40 tbsp needed)",
+    "ADD: Granola, 1 more bag (about 5 1/2 cups needed)",
+    "ADD: Mini chocolate chips, 1 more bag (about 2 1/2 cups needed)",
+    "ADD: Cocoa powder, unsweetened, 1 small canister (brownies and mousse)",
+    "ADD: Pure maple syrup, 1 small bottle (oats, pancakes, mousse, pumpkin cups)",
+    "ADD: Pumpkin puree, plain, 1 can, 15 oz (not pie filling) for Thursday 11/12 dessert",
+    "ADD: Salsa, 1 jar (tacos, quesadillas, bowls)",
+    "ADD: Rice, long grain white, 1 bag (about 6 cups needed, about 5 on hand)"
    ]
   },
   {
    "h": "Frozen",
    "items": [
-    "Frozen broccoli florets, 3 bags, 12 oz each (5 bags needed: Thursday 2, Friday 2, Saturday lunch 1, about 2 to 3 on hand)",
-    "Frozen cheese pizzas, 2 to 3 large, no pepperoni (tonight's dinner, skip if already in the freezer)"
+    {
+     "t": "Frozen broccoli florets, 3 bags, 12 oz each (in cart)",
+     "c": 1
+    },
+    "ADD: Frozen broccoli florets, 3 more bags (6 needed after tonight)",
+    "TAKE OUT of the cart: frozen cheese pizzas (Domino's covered Wednesday)"
    ]
   },
   {
    "h": "Eyeball at home (not on the Aldi list)",
    "items": [
-    "Whole chicken: raw and thawed in the fridge, not frozen (Thursday)",
-    "Frozen salmon and 1 bag frozen stir-fry veggies (Saturday)",
-    "Fettuccine, 1 lb, and Parmesan, about 6 oz (Friday alfredo)",
-    "Fat free evaporated milk, 1 can, and cornstarch (Friday alfredo)",
-    "Rice, about 4 cups dry (Thursday and Saturday)",
-    "Apples, 3 (Saturday lunch) and celery, 2 ribs (Friday chicken salad)",
-    "Cheez-Its, white cheddar popcorn and ranch seasoning packets (Thursday and Friday snacks)",
-    "Cinnamon (about 7 tsp across the oats and peaches), cocoa powder (1/3 cup), maple syrup (5 tsp)",
-    "Mayo, grainy mustard, lemon, onion, garlic powder, olive oil, liquid aminos, flour, sugar, baking powder"
+    "Whole chicken in the crockpot tonight, pepper rice and broccoli (in use, not on the list)",
+    "Frozen salmon, frozen shrimp, 1 bag frozen stir-fry veggies and 1 bag frozen sweet potatoes",
+    "Fettuccine 1 lb, Parmesan about 6 oz, evaporated milk 1 can, cornstarch (Friday alfredo)",
+    "Ditalini 1 box, black beans 2 cans, tortilla chips, Cheez-Its, popcorn, ranch seasoning packets",
+    "Slider rolls, 6 in the freezer (Monday sliders)",
+    "Sugar-free vanilla pudding mix, 1 box (Monday dessert)",
+    "Canned peaches, 1 to 2 cans on hand (Friday dessert needs 2 with the one in the cart)",
+    "Cinnamon, nutmeg, chili powder, cumin, paprika, Italian seasoning, garlic powder",
+    "Mayo, grainy mustard, lemon, onion, celery, olive oil, liquid aminos, flour, sugar, baking powder, vanilla",
+    "Hot dogs (4) and hot dog buns (4) are spare, not in the plan"
    ]
   },
   {

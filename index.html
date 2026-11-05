@@ -122,15 +122,16 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 /* Shared checklist: when DB_URL is filled in (Firebase Realtime Database), checks sync between phones live. Empty = this phone only. */
 const DB_URL='https://weekly-meals-15fb2-default-rtdb.firebaseio.com';
 const ck=id=>String(id).replace(/[.$#\[\]\/]/g,'_');
-function applyChecks(){document.querySelectorAll('.check input').forEach(i=>{i.checked=checks[ck(i.dataset.id)]===true});updateShopCount()}
-function updateShopCount(){const el=$('#shopcount');if(!el)return;const all=[...document.querySelectorAll('.check input')];const done=all.filter(i=>i.checked).length;el.textContent=done+' of '+all.length+' checked'}
+function isOn(id,def){const v=checks[ck(id)];return v===undefined?!!def:v===true}
+function applyChecks(){document.querySelectorAll('.check input').forEach(i=>{i.checked=isOn(i.dataset.id,i.dataset.def==='1')});updateShopCount()}
+function updateShopCount(){const el=$('#shopcount');if(!el)return;const all=[...document.querySelectorAll('.check input')];const done=all.filter(i=>i.checked).length;el.textContent=done+' of '+all.length+' checked, '+(all.length-done)+' left'}
 function pushCheck(id,v){checks[ck(id)]=v;store.set('checks-'+WEEK,checks);
   if(DB_URL)fetch(DB_URL+'/'+WEEK+'/'+ck(id)+'.json',{method:'PUT',body:JSON.stringify(v)}).catch(()=>{})}
 function pullChecks(){fetch(DB_URL+'/'+WEEK+'.json').then(r=>r.json()).then(d=>{checks=d||{};store.set('checks-'+WEEK,checks);applyChecks()}).catch(()=>{})}
 function startSync(){if(!DB_URL)return;pullChecks();
   try{const es=new EventSource(DB_URL+'/'+WEEK+'.json');es.addEventListener('put',pullChecks);es.addEventListener('patch',pullChecks)}catch(e){setInterval(pullChecks,5000)}
   document.addEventListener('visibilitychange',()=>{if(!document.hidden)pullChecks()})}
-function checkRow(id,text){const on=checks[ck(id)]===true;return `<label class="check"><input type="checkbox" data-id="${id}" ${on?'checked':''}><span>${esc(text)}</span></label>`}
+function checkRow(id,text,def){const on=isOn(id,def);return `<label class="check"><input type="checkbox" data-id="${id}" ${def?'data-def="1"':''} ${on?'checked':''}><span>${esc(text)}</span></label>`}
 
 function renderDays(){
   const d=DAYS[cur];
@@ -163,7 +164,7 @@ function renderPantry(){
 }
 function renderShop(){
   view.innerHTML=`<div class="day-head"><h2>Shopping list</h2></div><p class="note">Tap to check off as you shop. Your husband sees the checks live. <span id="shopcount"></span></p>`+
-  SHOP.map((sec,si)=>`<section class="card"><h3>${esc(sec.h)}</h3>${sec.items.map((t,ii)=>checkRow('shop-'+si+'-'+ii,t)).join('')}</section>`).join('');
+  SHOP.map((sec,si)=>`<section class="card"><h3>${esc(sec.h)}</h3>${sec.items.map((t,ii)=>{const o=typeof t==='string'?{t:t}:t;return checkRow('shop-'+si+'-'+ii,o.t,!!o.c)}).join('')}</section>`).join('');
   updateShopCount();
 }
 function render(){ if(tab==='days')renderDays(); else if(tab==='week')renderWeek(); else if(tab==='shop')renderShop(); else renderPantry();
