@@ -48,7 +48,7 @@
     "Pack the snacks: mandarin and string cheese for the morning, carrots, ranch dip and pretzels for after school."
    ],
    "pm": [
-    "5:00 pm: cook the rice and roast the broccoli (20 minutes) while the chicken rests. Chicken is done at 165 in the thickest part of the thigh.",
+    "5:00 pm: sauté the peppers and start the pepper rice, and roast the broccoli (20 minutes) while the chicken rests. Chicken is done at 165 in the thickest part of the thigh.",
     "After dinner: pull ALL the leftover chicken off the bones and refrigerate within 2 hours (about 4 cups for Friday).",
     "Tonight: assemble the 5 jars of Maple Brown Sugar overnight oats for Friday."
    ],
@@ -79,7 +79,7 @@
     ],
     [
      "Dinner",
-     "Crockpot whole chicken, rice, roasted broccoli",
+     "Crockpot whole chicken, pepper rice, roasted broccoli",
      "Crockpot, hands-off",
      "chicken_cp"
     ],
@@ -205,26 +205,27 @@
  ],
  "r": {
   "chicken_cp": {
-   "t": "Crockpot whole chicken, rice and roasted broccoli",
+   "t": "Crockpot whole chicken, pepper rice and roasted broccoli",
    "s": "Serves 6 with leftover chicken for Friday",
    "ing": [
     "1 whole chicken, 5 to 6 lb, raw and thawed (never frozen)",
-    "1 onion, quartered",
+    "1 onion, quartered (dice a little of it for the rice)",
     "1 tbsp olive oil",
     "2 tsp salt",
     "1 tsp garlic powder",
     "1 tsp paprika",
     "1/2 tsp pepper",
     "1/2 cup water",
-    "2 cups long grain white rice and 4 cups water",
-    "1 tbsp butter",
+    "Pepper rice: 2 cups long grain white rice, 3 bell peppers diced small, 1 tbsp olive oil, 1/2 tsp garlic powder, 1/2 tsp salt, 4 cups water, 1 tbsp butter",
     "2 bags (12 oz each) frozen broccoli",
     "1 tbsp olive oil and a pinch of salt for the broccoli"
    ],
    "st": [
     "Put the onion in the slow cooker. Pat the chicken dry, rub with the oil and spices and set it breast side up on the onion. Pour the water around it.",
     "Cook on low 7 to 8 hours (or high 4 to 5) until 165 in the thickest part of the thigh.",
-    "Cook the rice with the water and butter. Roast the frozen broccoli at 425 with the oil and salt for 18 minutes. Let the chicken rest 15 minutes and serve legs, thighs and some breast.",
+    "Pepper rice: heat 1 tbsp olive oil in a lidded pot over medium. Sauté the diced peppers (and a little diced onion if you like) 5 to 6 minutes until soft with a few browned edges. Stir in the garlic powder and salt, add the rice and stir 1 minute to toast it.",
+    "Add the 4 cups water and the butter, bring to a boil, cover, turn to low and cook 15 to 18 minutes without lifting the lid. Rest off the heat 5 minutes, then fluff. For more chicken flavor, swap 1/2 cup of the water for skimmed crockpot juices.",
+    "Roast the frozen broccoli at 425 with the oil and salt for 18 minutes. Let the chicken rest 15 minutes and serve legs, thighs and some breast.",
     "After dinner pull ALL the remaining meat off the bones and refrigerate within 2 hours (about 4 cups: 2 for Friday's chicken salad lunch and 2 for Friday's alfredo)."
    ]
   },
@@ -495,7 +496,7 @@
   ],
   [
    "Thu 5",
-   "Crockpot whole chicken, rice, broccoli",
+   "Crockpot whole chicken, pepper rice, broccoli",
    "Crockpot"
   ],
   [
