@@ -29,9 +29,9 @@
     ],
     [
      "Dessert",
-     "Chocolate pudding yogurt cups",
-     "",
-     "pudding_choc"
+     "Leftover cookies and Halloween candy",
+     "Planned pudding cups not made",
+     "treats"
     ]
    ]
   },
@@ -44,11 +44,12 @@
    "am": [
     "Make the cheesy grits (about 25 minutes) with banana slices.",
     "Pack school lunches from what is on hand: the chicken boxes (chicken, cheddar cubes, Cheez-Its, apple slices) and a pretzel and string cheese snack. Adults eat the chicken wraps at home.",
-    "Groceries due 10 am to 1 pm: put the cold items away first, and set the ground turkey aside to cook Sunday (or freeze it).",
+    "Groceries due 10 am to 1 pm: put the frozen items away first (the 2 boxes of banana bites go straight in the freezer), then the cold items. Set the ground turkey aside to cook Sunday (or freeze it).",
     "Take the frozen cheese pizzas off the order if they are still in the cart (see the Shopping tab)."
    ],
    "pm": [
     "4:45 pm: roast the broccoli, boil the fettuccine and make the alfredo sauce (25 minutes).",
+    "After dinner: oven to 375 and bake the peach crisp (35 minutes) while you clean up. Serve warm.",
     "Tonight: move the frozen salmon from the freezer to the fridge to thaw for Saturday."
    ],
    "meals": [
@@ -84,9 +85,9 @@
     ],
     [
      "Dessert",
-     "Peaches and cream cups",
-     "",
-     "peaches"
+     "Peach crisp with protein oat topping",
+     "Oven, 35 minutes",
+     "peach_crisp"
     ]
    ]
   },
@@ -99,7 +100,7 @@
    "am": [
     "Make the scrambled eggs and toast for breakfast (about 10 minutes).",
     "Check that the salmon is thawed in the fridge.",
-    "Bake the brownie bites after breakfast (20 minutes) so they cool before dessert.",
+    "Bake the protein brownie bites after breakfast (16 to 18 minutes) so they cool before dessert.",
     "Make the shells and cheese for lunch with steamed broccoli and apple slices."
    ],
    "pm": [
@@ -139,7 +140,7 @@
     ],
     [
      "Dessert",
-     "Cocoa brownie bites",
+     "Cocoa protein brownie bites",
      "The weekend treat",
      "brownies"
     ]
@@ -157,9 +158,9 @@
     "Take the slider rolls out of the freezer and put them in the fridge tonight."
    ],
    "pm": [
-    "1:00 pm: spread the strawberry yogurt bark on a pan and freeze it (2 hours).",
     "3:30 pm: mix and roll the turkey meatballs (about 30) and bake them on two pans. Cook the ground turkey today or freeze it.",
     "5:00 pm: boil the spaghetti, roast the broccoli and warm the sauce. Serve 15 meatballs and refrigerate the other 15 plus 1 jar of sauce within 2 hours for Monday.",
+    "After dinner: oven to 350 and bake the frozen berry crisp (30 to 35 minutes). Serve warm.",
     "Tonight: assemble the 5 jars of Maple Brown Sugar overnight oats for Monday."
    ],
    "meals": [
@@ -195,9 +196,9 @@
     ],
     [
      "Dessert",
-     "Strawberry yogurt bark",
-     "New item test",
-     "s_bark"
+     "Frozen berry crisp with protein oat topping",
+     "Oven, 30 minutes",
+     "berry_crisp"
     ]
    ]
   },
@@ -214,6 +215,7 @@
     "Check that the slider rolls are thawed in the fridge."
    ],
    "pm": [
+    "3:45 pm: make the chocolate protein pudding (5 minutes, then chill). Scoop the picky eater a portion first and stir in vanilla almond creamer instead of the yogurt.",
     "4:30 pm: warm the meatballs in the marinara, toast the rolls with mozzarella and fill the sliders (15 minutes). Dinner is ready before Anna heads out.",
     "Tonight: assemble the 5 yogurt parfait cups for Tuesday breakfast."
    ],
@@ -250,9 +252,9 @@
     ],
     [
      "Dessert",
-     "Vanilla pudding yogurt cups",
-     "",
-     "pudding_van"
+     "Chocolate protein pudding cups",
+     "Made at 3:45 pm, no oven",
+     "pudding_choc_set"
     ]
    ]
   },
@@ -265,11 +267,9 @@
    "am": [
     "Chicken thighs into the slow cooker by 9:30 with the spices and salsa, low for 6 to 7 hours.",
     "Breakfast is the parfait cups from last night. Grab and go.",
-    "Make the grilled cheese for lunch, wrap in foil and pack with carrots and a mandarin.",
-    "Slice the 4 bananas and assemble the PB banana bites on a lined tray, then freeze them (they need 2 hours before the chocolate drizzle)."
+    "Make the grilled cheese for lunch, wrap in foil and pack with carrots and a mandarin."
    ],
    "pm": [
-    "After school: drizzle the melted chocolate over the banana bites and put them back in the freezer.",
     "5:00 pm: shred the chicken, warm the tortillas and set out the toppings (15 minutes).",
     "After dinner: refrigerate the leftover chicken (about 2 1/2 cups) within 2 hours for Thursday.",
     "Tonight: assemble the 5 jars of Peanut Butter Banana overnight oats for Wednesday."
@@ -307,9 +307,9 @@
     ],
     [
      "Dessert",
-     "Frozen chocolate PB banana bites",
-     "",
-     "bites"
+     "Aldi frozen PB chocolate banana bites",
+     "Straight from the freezer",
+     "aldi_bananas"
     ]
    ]
   },
@@ -326,6 +326,7 @@
     "Pack the snacks: rice cake and peanut butter in the morning, carrots and ranch dip for after school."
    ],
    "pm": [
+    "3:30 pm: blend and bake the chocolate banana protein muffins (20 minutes).",
     "4:45 pm: start the rice, roast the sweet potatoes and broccoli at 425 (25 minutes), then sear the shrimp in garlic butter for the last 5 minutes.",
     "Tonight: bake the egg and pepper muffins for Thursday breakfast (20 minutes), cool and refrigerate."
    ],
@@ -362,9 +363,9 @@
     ],
     [
      "Dessert",
-     "Chocolate yogurt mousse cups",
-     "",
-     "mousse"
+     "Blender chocolate banana protein muffins",
+     "Bake at 3:30 pm",
+     "choc_muffins"
     ]
    ]
   },
@@ -380,6 +381,7 @@
     "Pack the snacks: mandarin and string cheese in the morning, popcorn, cheese and grapes for after school."
    ],
    "pm": [
+    "3:30 pm: blend and bake the pumpkin protein muffins (20 minutes).",
     "4:45 pm: cook the rice, warm the chicken with the spices, warm the beans and set out the toppings (20 minutes).",
     "Tonight: nothing to prep for tomorrow beyond setting out the bread, peanut butter and bananas."
    ],
@@ -416,9 +418,9 @@
     ],
     [
      "Dessert",
-     "Pumpkin pie yogurt cups",
-     "New item test",
-     "pumpkin"
+     "Blender pumpkin protein muffins",
+     "Bake at 3:30 pm",
+     "pumpkin_muffins"
     ]
    ]
   },
@@ -437,6 +439,7 @@
    "pm": [
     "4:00 pm: potatoes in the oven at 425 (50 to 60 minutes).",
     "5:00 pm: steam the broccoli and set out the cheese and yogurt toppings.",
+    "After dinner: potatoes are out, so drop the oven to 350 and bake the apple crisp (35 minutes). Serve warm.",
     "After dinner: eyeball what is left in the fridge and pantry for next week's ledger."
    ],
    "meals": [
@@ -472,9 +475,9 @@
     ],
     [
      "Dessert",
-     "Warm cinnamon apples with yogurt",
-     "",
-     "apples_cin"
+     "Apple crisp with protein oat topping",
+     "Oven, 35 minutes",
+     "apple_crisp"
     ]
    ]
   }
@@ -503,20 +506,6 @@
     "Add the 4 cups water and the butter, bring to a boil, cover, turn to low and cook 15 to 18 minutes without lifting the lid. Rest off the heat 5 minutes, then fluff. For more chicken flavor, swap 1/2 cup of the water for skimmed crockpot juices.",
     "Roast the frozen broccoli at 425 with the oil and salt for 18 minutes. Let the chicken rest 15 minutes and serve legs, thighs and some breast.",
     "After dinner pull ALL the remaining meat off the bones and refrigerate within 2 hours (about 4 cups: 2 for Friday's chicken salad lunch and 2 for Friday's alfredo)."
-   ]
-  },
-  "pudding_choc": {
-   "t": "Chocolate pudding yogurt cups",
-   "s": "Serves 6",
-   "ing": [
-    "1 box (1 oz) sugar-free chocolate pudding mix",
-    "1 cup 2% milk",
-    "1 cup plain Greek yogurt",
-    "2 tbsp mini chocolate chips"
-   ],
-   "st": [
-    "Whisk the pudding mix with the milk for 1 minute, then stir in the yogurt until smooth.",
-    "Spoon into cups, chill 10 minutes and top with chips."
    ]
   },
   "grits": {
@@ -594,21 +583,6 @@
     "Toss the pasta and chicken in the sauce and serve with broccoli."
    ]
   },
-  "peaches": {
-   "t": "Peaches and cream cups",
-   "s": "Serves 6",
-   "ing": [
-    "2 cans (15 oz) peaches in juice, drained and chopped",
-    "1 1/2 cups plain Greek yogurt",
-    "3/4 tsp cinnamon",
-    "1 tsp vanilla",
-    "1/4 cup granola"
-   ],
-   "st": [
-    "Stir the cinnamon and vanilla into the yogurt.",
-    "Layer peaches and yogurt in cups and top with granola."
-   ]
-  },
   "scramble": {
    "t": "Scrambled eggs, cheese and toast",
    "s": "Serves 5",
@@ -683,26 +657,6 @@
     "Heat the oven to 425. Cook the rice.",
     "Roast the frozen veggies on one pan with 1 tbsp oil and the salt for 15 to 18 minutes.",
     "Whisk the aminos, maple, 1 tbsp oil and garlic powder, put the salmon on a second pan and brush on the glaze. Roast 10 to 12 minutes until it flakes (145). Serve over rice with the veggies."
-   ]
-  },
-  "brownies": {
-   "t": "Cocoa brownie bites",
-   "s": "Serves 6 (12 bites)",
-   "ing": [
-    "1/2 cup melted butter",
-    "3/4 cup sugar",
-    "2 eggs",
-    "1 tsp vanilla",
-    "1/2 cup all-purpose flour",
-    "1/3 cup unsweetened cocoa powder",
-    "1/2 tsp baking powder",
-    "1/4 tsp salt",
-    "1/2 cup chocolate chips"
-   ],
-   "st": [
-    "Heat the oven to 350 and grease a 12-cup muffin tin.",
-    "Whisk the butter, sugar, eggs and vanilla, then stir in the dry ingredients and chips.",
-    "Fill the cups and bake 18 to 20 minutes. Cool in the tin. Serve 2 each."
    ]
   },
   "pancakes": {
@@ -791,21 +745,6 @@
     "Serve 15 meatballs over spaghetti with extra sauce and the broccoli. Within 2 hours refrigerate the other 15 meatballs and the second jar of marinara (about 3 cups) for Monday."
    ]
   },
-  "s_bark": {
-   "t": "Strawberry yogurt bark",
-   "s": "Serves 6 (new item test)",
-   "ing": [
-    "1 1/2 cups plain Greek yogurt",
-    "1 tbsp maple syrup",
-    "1 tsp vanilla",
-    "1 cup thawed frozen strawberries, chopped and patted dry",
-    "1/4 cup mini chocolate chips"
-   ],
-   "st": [
-    "Stir the maple and vanilla into the yogurt and spread 1/4 inch thick on a parchment-lined sheet pan.",
-    "Scatter the strawberries and chocolate chips on top. Freeze 2 hours (start it after lunch), break into pieces and serve right away."
-   ]
-  },
   "oats5": {
    "t": "Maple brown sugar overnight oats",
    "s": "Serves 5 (5 jars)",
@@ -868,20 +807,6 @@
     "Warm the meatballs in the marinara in a covered pan over medium 10 minutes.",
     "Split the rolls, add mozzarella and toast under the broiler 1 to 2 minutes.",
     "Fill each roll with 2 to 3 meatballs and sauce. Serve with carrots."
-   ]
-  },
-  "pudding_van": {
-   "t": "Vanilla pudding yogurt cups",
-   "s": "Serves 6",
-   "ing": [
-    "1 box (1 oz) sugar-free vanilla pudding mix",
-    "1 cup 2% milk",
-    "1 cup plain Greek yogurt",
-    "1/4 cup granola, crushed"
-   ],
-   "st": [
-    "Whisk the pudding mix with the milk for 1 minute, then stir in the yogurt until smooth.",
-    "Spoon into cups, chill 10 minutes and top with granola."
    ]
   },
   "parfait": {
@@ -956,20 +881,6 @@
     "Set out the toppings so everyone builds their own tacos. Refrigerate the leftover chicken (about 2 1/2 cups) within 2 hours for Thursday."
    ]
   },
-  "bites": {
-   "t": "Frozen chocolate PB banana bites",
-   "s": "Serves 6",
-   "ing": [
-    "4 bananas, sliced 1/2 inch thick",
-    "1/2 cup peanut butter",
-    "1/2 cup chocolate chips",
-    "1 tsp olive oil"
-   ],
-   "st": [
-    "Morning: spread peanut butter on half the slices and top with the rest to make 12 sandwiches. Freeze on a lined tray 2 hours.",
-    "After school: melt the chips with the oil, drizzle over the bites and freeze again 10 minutes. Serve 2 each."
-   ]
-  },
   "oats1": {
    "t": "Peanut butter banana overnight oats",
    "s": "Serves 5 (5 jars)",
@@ -1029,22 +940,6 @@
     "Stir in the lemon juice, salt and pepper. Serve over rice with the veggies and spoon the pan butter over the top."
    ]
   },
-  "mousse": {
-   "t": "Chocolate yogurt mousse cups",
-   "s": "Serves 6",
-   "ing": [
-    "1 1/2 cups plain Greek yogurt",
-    "3 tbsp unsweetened cocoa powder",
-    "3 tbsp maple syrup",
-    "1 tsp vanilla",
-    "2 tbsp 2% milk",
-    "2 tbsp mini chocolate chips"
-   ],
-   "st": [
-    "Whisk the cocoa, maple, vanilla and milk into the yogurt until smooth.",
-    "Spoon into cups, chill 15 minutes and top with chips."
-   ]
-  },
   "muffins": {
    "t": "Egg and pepper muffins",
    "s": "Serves 5 (10 muffins, 2 each)",
@@ -1098,23 +993,6 @@
     "Set everything out so each person builds a bowl (the middle kid can skip the beans)."
    ]
   },
-  "pumpkin": {
-   "t": "Pumpkin pie yogurt cups",
-   "s": "Serves 6 (new item test)",
-   "ing": [
-    "1 cup plain canned pumpkin (not pie filling)",
-    "1 1/2 cups plain Greek yogurt",
-    "3 tbsp maple syrup",
-    "1 1/2 tsp cinnamon",
-    "1/4 tsp nutmeg",
-    "1 tsp vanilla",
-    "1/4 cup granola, crushed"
-   ],
-   "st": [
-    "Stir the pumpkin, maple, spices and vanilla into the yogurt until smooth.",
-    "Spoon into cups, chill 15 minutes and top with granola."
-   ]
-  },
   "toast_pb": {
    "t": "Peanut butter banana toast with a yogurt cup",
    "s": "Serves 5",
@@ -1162,20 +1040,169 @@
     "Split the potatoes and set out the cheese, yogurt and broccoli so everyone loads their own."
    ]
   },
-  "apples_cin": {
-   "t": "Warm cinnamon apples with yogurt",
+  "treats": {
+   "t": "Leftover cookies and Halloween candy",
    "s": "Serves 6",
    "ing": [
-    "4 apples, diced",
-    "1 tbsp butter",
-    "1 tsp cinnamon",
-    "1 tbsp maple syrup",
-    "1 1/2 cups plain Greek yogurt",
-    "1/4 cup granola"
+    "Leftover chocolate chip cookies",
+    "Halloween candy"
    ],
    "st": [
-    "Melt the butter in a skillet over medium, add the apples, cinnamon and maple and cook 6 to 8 minutes until tender.",
-    "Spoon over bowls of yogurt and top with granola."
+    "Not made. The planned pudding cups were skipped, so the pudding mix and yogurt stay on hand."
+   ]
+  },
+  "peach_crisp": {
+   "t": "Peach crisp with protein oat topping",
+   "s": "Serves 6",
+   "ing": [
+    "2 cans (15 oz) peaches in juice, drained",
+    "1 tbsp maple syrup",
+    "1 tsp cinnamon",
+    "1 tsp cornstarch",
+    "Topping: 1 cup old-fashioned oats",
+    "Topping: 2 scoops unflavored plant protein powder",
+    "Topping: 3 tbsp melted butter",
+    "Topping: 2 tbsp maple syrup",
+    "Topping: 1/2 tsp cinnamon",
+    "Topping: 1 to 2 tbsp milk"
+   ],
+   "st": [
+    "Heat the oven to 375. Toss the peaches with the maple, cinnamon and cornstarch in an 8 inch baking dish.",
+    "Stir the topping ingredients together, adding the milk a tablespoon at a time until it clumps like wet sand.",
+    "Crumble the topping over the peaches and bake 30 to 35 minutes, until bubbling. Serve warm."
+   ]
+  },
+  "brownies": {
+   "t": "Cocoa protein brownie bites",
+   "s": "Serves 6 (12 bites)",
+   "ing": [
+    "1/2 cup melted butter",
+    "3/4 cup sugar",
+    "2 eggs",
+    "1 tsp vanilla",
+    "1/4 cup all-purpose flour",
+    "2 scoops unflavored plant protein powder",
+    "1/3 cup unsweetened cocoa powder",
+    "1/2 tsp baking powder",
+    "1/4 tsp salt",
+    "1/4 cup plain Greek yogurt",
+    "1/2 cup chocolate chips"
+   ],
+   "st": [
+    "Heat the oven to 350 and grease a 12-cup muffin tin.",
+    "Whisk the butter, sugar, eggs, vanilla and yogurt, then stir in the flour, protein, cocoa, baking powder and salt. If the batter is stiff, add 1 tbsp milk. Fold in the chips.",
+    "Fill the cups and bake 16 to 18 minutes (check early, protein dries them out). Cool in the tin. Serve 2 each."
+   ]
+  },
+  "berry_crisp": {
+   "t": "Frozen berry crisp with protein oat topping",
+   "s": "Serves 6",
+   "ing": [
+    "1 bag (16 oz) frozen mixed berries, not thawed",
+    "1 tbsp maple syrup",
+    "1 tbsp cornstarch",
+    "Topping: 1 cup old-fashioned oats",
+    "Topping: 2 scoops unflavored plant protein powder",
+    "Topping: 3 tbsp melted butter",
+    "Topping: 2 tbsp maple syrup",
+    "Topping: 1/2 tsp cinnamon",
+    "Topping: 1 to 2 tbsp milk"
+   ],
+   "st": [
+    "Heat the oven to 350. Toss the frozen berries with the maple and cornstarch in an 8 inch baking dish.",
+    "Stir the topping ingredients together, adding the milk a tablespoon at a time until it clumps like wet sand.",
+    "Crumble the topping over the berries and bake 30 to 35 minutes, until bubbling. Serve warm."
+   ]
+  },
+  "pudding_choc_set": {
+   "t": "Chocolate protein pudding cups",
+   "s": "Serves 6",
+   "ing": [
+    "1 box (1 oz) sugar-free chocolate pudding mix",
+    "2 cups cold 2% milk",
+    "2 scoops unflavored plant protein powder",
+    "1/2 cup plain Greek yogurt",
+    "2 tbsp mini chocolate chips",
+    "For the picky eater: 2 tbsp vanilla almond creamer in place of the yogurt"
+   ],
+   "st": [
+    "Whisk the protein powder into the cold milk until smooth, then whisk in the pudding mix for 2 minutes. Let it rest 5 minutes to set.",
+    "Stir in the yogurt. For the picky eater, scoop out her portion first and stir in the creamer instead.",
+    "Spoon into cups, chill 10 minutes and top with chips."
+   ]
+  },
+  "aldi_bananas": {
+   "t": "Aldi frozen peanut butter chocolate banana bites",
+   "s": "Serves 6",
+   "ing": [
+    "2 boxes Aldi Season's Choice frozen PB chocolate banana bites"
+   ],
+   "st": [
+    "Keep frozen until dessert. Serve about 2 pieces each, checking the box. Serving counts are Unverified (Aldi lists no per-box servings online)."
+   ]
+  },
+  "choc_muffins": {
+   "t": "Blender chocolate banana protein muffins",
+   "s": "Serves 6 (12 muffins)",
+   "ing": [
+    "2 ripe bananas",
+    "1 cup plain Greek yogurt",
+    "2 eggs",
+    "1/4 cup maple syrup",
+    "1 1/2 cups old-fashioned oats",
+    "3 scoops unflavored plant protein powder",
+    "1/3 cup unsweetened cocoa powder",
+    "2 tsp baking powder",
+    "2 to 4 tbsp milk",
+    "1/2 cup mini chocolate chips"
+   ],
+   "st": [
+    "Heat the oven to 350 and grease a 12-cup muffin tin.",
+    "Blend the bananas, yogurt, eggs and maple, then add the oats, protein, cocoa and baking powder. Blend smooth, adding the milk a tablespoon at a time until it is thick but pourable.",
+    "Stir in half the chips, fill the cups, top with the rest and bake 18 to 20 minutes. Serve 2 each."
+   ]
+  },
+  "pumpkin_muffins": {
+   "t": "Blender pumpkin protein muffins",
+   "s": "Serves 6 (12 muffins)",
+   "ing": [
+    "1 cup plain canned pumpkin (not pie filling)",
+    "1/2 cup plain Greek yogurt",
+    "2 eggs",
+    "1/3 cup maple syrup",
+    "1 1/2 cups old-fashioned oats",
+    "3 scoops unflavored plant protein powder",
+    "2 tsp baking powder",
+    "1 1/2 tsp cinnamon",
+    "1/4 tsp nutmeg",
+    "2 to 4 tbsp milk",
+    "1/4 cup mini chocolate chips (optional)"
+   ],
+   "st": [
+    "Heat the oven to 350 and grease a 12-cup muffin tin.",
+    "Blend the pumpkin, yogurt, eggs and maple, then add the oats, protein, baking powder and spices. Blend smooth, adding the milk a tablespoon at a time until it is thick but pourable.",
+    "Fill the cups, add chips if using, and bake 18 to 20 minutes. Serve 2 each."
+   ]
+  },
+  "apple_crisp": {
+   "t": "Apple crisp with protein oat topping",
+   "s": "Serves 6",
+   "ing": [
+    "4 apples, chopped",
+    "1 tbsp maple syrup",
+    "1 tsp cinnamon",
+    "2 tbsp water",
+    "Topping: 1 cup old-fashioned oats",
+    "Topping: 2 scoops unflavored plant protein powder",
+    "Topping: 3 tbsp melted butter",
+    "Topping: 2 tbsp maple syrup",
+    "Topping: 1/2 tsp cinnamon",
+    "Topping: 1 to 2 tbsp milk"
+   ],
+   "st": [
+    "Heat the oven to 350. Toss the apples with the maple, cinnamon and water in an 8 inch baking dish and cover with foil.",
+    "Stir the topping ingredients together, adding the milk a tablespoon at a time until it clumps like wet sand.",
+    "Bake the apples covered 15 minutes, then crumble the topping over, uncover and bake 20 minutes more. Serve warm."
    ]
   }
  },
@@ -1227,7 +1254,7 @@
   ]
  ],
  "method": "3 crockpot or hands-off nights (Thu chicken, Tue tacos, Fri baked potatoes), 3 sheet-pan nights (Sat salmon, Sun meatballs, Wed shrimp), and 3 quick nights (Fri alfredo, Mon sliders for therapy night, Thu bowls). Dinner is on the table about 5:30.",
- "desserts": "Thu chocolate pudding yogurt cups, Fri peaches and cream, Sat cocoa brownie bites, Sun strawberry yogurt bark (new), Mon vanilla pudding yogurt cups, Tue frozen PB banana bites, Wed chocolate yogurt mousse, Thu pumpkin pie yogurt cups (new), Fri warm cinnamon apples with yogurt.",
+ "desserts": "Thu leftover cookies and Halloween candy (pudding cups not made), Fri peach crisp, Sat cocoa protein brownie bites, Sun frozen berry crisp, Mon chocolate protein pudding cups, Tue Aldi frozen PB banana bites, Wed chocolate banana protein muffins, Thu pumpkin protein muffins, Fri apple crisp. Every dessert except Tuesday uses Orgain unflavored plant protein powder (about 16 scoops total, 2 scoops is about 21 g protein).",
  "pantry": [
   "Tonight's dinner and dessert ingredients are in the house and in use. Nothing on the shopping list is for tonight.",
   "Groceries arrive Friday 10 am to 1 pm. Breakfast and school lunches Friday run on what is on hand (grits, bananas, chicken, cheddar, Cheez-Its, apples, pretzels, string cheese).",
@@ -1235,9 +1262,12 @@
   "Frozen salmon: move to the fridge Friday night for Saturday dinner.",
   "Slider rolls: move from the freezer to the fridge Sunday night.",
   "Shrimp: move to the fridge Wednesday morning.",
-  "Eyeball before Monday: chia, granola, peanut butter, chocolate chips (oats mornings Monday and Wednesday).",
+  "Eyeball before Monday: chia, granola, peanut butter, chocolate chips (oats mornings Monday and Wednesday), and the vanilla almond creamer for Monday.",
   "Frozen broccoli: the plan uses 6 bags after tonight (alfredo 2, Saturday lunch 1, Sunday 1, Wednesday 1, Friday 11/13 1).",
-  "Remove the frozen cheese pizzas from the Aldi cart if they are still in it."
+  "Remove the frozen cheese pizzas from the Aldi cart if they are still in it.",
+  "Protein powder: Orgain unflavored plant protein is used in 8 desserts, about 16 scoops total. Check that the container has at least 16 scoops.",
+  "Frozen banana bites: put both Aldi boxes in the freezer when groceries arrive Friday and keep them for Tuesday.",
+  "Chocolate pudding mix: the box from home (Thursday's dessert was not made) is used Monday. The one in the cart is a spare."
  ],
  "shop": [
   {
@@ -1263,10 +1293,10 @@
      "t": "Bell peppers, 3-count multipack (in cart)",
      "c": 1
     },
-    "ADD: Bananas, 1 more bunch (15 needed across the plan)",
+    "ADD: Bananas, 1 more bunch (about 13 needed, 2 ripe ones for the Wednesday muffins)",
     "ADD: Apples, organic Honeycrisp or Pink Lady, 2 bags of 3 lb (about 17 needed)",
     "ADD: Mandarin oranges, 2 more bags (about 36 needed)",
-    "ADD: Baby carrots, 2 more bags, 2 lb each (about 15 cups needed)",
+    "ADD: Baby carrots, 2 more bags, 2 lb each (about 19 cups needed)",
     "ADD: Avocados, 1 more (tacos 2, bowls 1)",
     "ADD: Russet potatoes, 1 bag, 5 lb (Friday 11/13 potato bar)"
    ]
@@ -1313,13 +1343,13 @@
      "t": "Eggs, organic, 1 dozen (in cart)",
      "c": 1
     },
-    "ADD: Plain Greek yogurt, 3 more tubs, 32 oz each (about 16 cups needed)",
+    "ADD: Plain Greek yogurt, 2 more tubs, 32 oz each (about 13 cups needed, 1 cup at home is unused)",
     "ADD: Flavored Greek yogurt cups, 1 more four-pack (10 needed)",
     "ADD: String cheese, 3 more packs of 12 (about 55 sticks needed)",
     "ADD: Cheddar, 3 more 16 oz blocks (about 64 oz needed)",
-    "ADD: 2% milk, 1 more gallon (oats, pancakes, pudding)",
+    "ADD: 2% milk, 1 more gallon (oats, pancakes, pudding, muffins)",
     "ADD: Butter, 1 lb (brownies, shells, rice, shrimp, pancakes)",
-    "ADD: Eggs, organic, 2 more dozen (about 30 needed)"
+    "ADD: Eggs, organic, 2 more dozen (about 36 needed)"
    ]
   },
   {
@@ -1362,7 +1392,7 @@
      "c": 1
     },
     {
-     "t": "Sugar-free chocolate pudding mix (in cart)",
+     "t": "Sugar-free chocolate pudding mix (in cart, a spare since the home box is used Monday)",
      "c": 1
     },
     {
@@ -1382,14 +1412,15 @@
     "ADD: Small flour tortillas for tacos, 1 pack of 12 or more",
     "ADD: Large flour tortillas, 1 more package (about 20 needed)",
     "ADD: Sandwich bread, 1 more loaf (about 22 slices needed)",
-    "ADD: Peanut butter, 1 more jar (about 40 tbsp needed)",
+    "ADD: Peanut butter, 1 more jar (about 32 tbsp needed, so this is a buffer)",
     "ADD: Granola, 1 more bag (about 5 1/2 cups needed)",
-    "ADD: Mini chocolate chips, 1 more bag (about 2 1/2 cups needed)",
-    "ADD: Cocoa powder, unsweetened, 1 small canister (brownies and mousse)",
-    "ADD: Pure maple syrup, 1 small bottle (oats, pancakes, mousse, pumpkin cups)",
-    "ADD: Pumpkin puree, plain, 1 can, 15 oz (not pie filling) for Thursday 11/12 dessert",
+    "ADD: Mini chocolate chips, 1 more bag (about 2 cups needed)",
+    "ADD: Cocoa powder, unsweetened, 1 small canister (brownies and chocolate muffins)",
+    "ADD: Pure maple syrup, 1 bottle of at least 12 oz (about 1 1/4 cups needed)",
+    "ADD: Pumpkin puree, plain, 1 can, 15 oz (not pie filling) for Thursday 11/12 muffins",
     "ADD: Salsa, 1 jar (tacos, quesadillas, bowls)",
-    "ADD: Rice, long grain white, 1 bag (about 6 cups needed, about 5 on hand)"
+    "ADD: Rice, long grain white, 1 bag (about 6 cups needed, about 5 on hand)",
+    "ADD: Old-fashioned oats, 1 more canister (the crisps and muffins use about 6 extra cups)"
    ]
   },
   {
@@ -1399,6 +1430,11 @@
      "t": "Frozen broccoli florets, 3 bags, 12 oz each (in cart)",
      "c": 1
     },
+    {
+     "t": "Aldi frozen PB chocolate banana bites, 2 boxes (in cart)",
+     "c": 1
+    },
+    "ADD: Frozen mixed berries, 1 bag, 16 oz (Sunday berry crisp)",
     "ADD: Frozen broccoli florets, 3 more bags (6 needed after tonight)",
     "TAKE OUT of the cart: frozen cheese pizzas (Domino's covered Wednesday)"
    ]
@@ -1411,7 +1447,7 @@
     "Fettuccine 1 lb, Parmesan about 6 oz, evaporated milk 1 can, cornstarch (Friday alfredo)",
     "Ditalini 1 box, black beans 2 cans, tortilla chips, Cheez-Its, popcorn, ranch seasoning packets",
     "Slider rolls, 6 in the freezer (Monday sliders)",
-    "Sugar-free vanilla pudding mix, 1 box (Monday dessert)",
+    "Orgain unflavored plant protein powder, about 16 scoops (8 desserts)",
     "Canned peaches, 1 to 2 cans on hand (Friday dessert needs 2 with the one in the cart)",
     "Cinnamon, nutmeg, chili powder, cumin, paprika, Italian seasoning, garlic powder",
     "Mayo, grainy mustard, lemon, onion, celery, olive oil, liquid aminos, flour, sugar, baking powder, vanilla",
