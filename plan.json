@@ -48,7 +48,7 @@
     "Take the frozen cheese pizzas off the order if they are still in the cart (see the Shopping tab)."
    ],
    "pm": [
-    "4:45 pm: roast the broccoli, boil the fettuccine and make the alfredo sauce (25 minutes).",
+    "4:45 pm: boil the fettuccine and make the alfredo sauce (20 minutes). Toss the salad kits right before serving.",
     "After dinner: oven to 375 and bake the peach crisp (35 minutes) while you clean up. Serve warm.",
     "Tonight: move the frozen salmon from the freezer to the fridge to thaw for Saturday."
    ],
@@ -79,8 +79,8 @@
     ],
     [
      "Dinner",
-     "Chicken fettuccine alfredo, roasted broccoli",
-     "One pot plus a sheet pan, 25 minutes",
+     "Chicken fettuccine alfredo, bagged salad",
+     "One pot, 20 minutes",
      "alfredo"
     ],
     [
@@ -159,7 +159,7 @@
    ],
    "pm": [
     "3:30 pm: mix and roll the turkey meatballs (about 30) and bake them on two pans. Cook the ground turkey today or freeze it.",
-    "5:00 pm: boil the spaghetti, roast the broccoli and warm the sauce. Serve 15 meatballs and refrigerate the other 15 plus 1 jar of sauce within 2 hours for Monday.",
+    "5:00 pm: boil the spaghetti, roast the green beans and warm the sauce. Serve 15 meatballs and refrigerate the other 15 plus 1 jar of sauce within 2 hours for Monday.",
     "After dinner: oven to 350 and bake the frozen berry crisp (30 to 35 minutes). Serve warm.",
     "Tonight: assemble the 5 jars of Maple Brown Sugar overnight oats for Monday."
    ],
@@ -190,7 +190,7 @@
     ],
     [
      "Dinner",
-     "Turkey meatballs with spaghetti and roasted broccoli",
+     "Turkey meatballs with spaghetti and roasted green beans",
      "Big batch, extras for Monday",
      "meatballs"
     ],
@@ -216,7 +216,7 @@
    ],
    "pm": [
     "3:45 pm: make the chocolate protein pudding (5 minutes, then chill). Scoop the picky eater a portion first and stir in vanilla almond creamer instead of the yogurt.",
-    "4:30 pm: warm the meatballs in the marinara, toast the rolls with mozzarella and fill the sliders (15 minutes). Dinner is ready before Anna heads out.",
+    "4:30 pm: warm the meatballs in the marinara, toast the rolls with mozzarella and fill the sliders (15 minutes). Cut the cucumbers and peppers onto a platter with the ranch dip and set out the chips. Dinner is ready before Anna heads out.",
     "Tonight: assemble the 5 yogurt parfait cups for Tuesday breakfast."
    ],
    "meals": [
@@ -246,7 +246,7 @@
     ],
     [
      "Dinner",
-     "Meatball sliders with carrot sticks",
+     "Meatball sliders, cucumber and pepper plate, chips",
      "15 minutes, easy for whoever is home",
      "sliders"
     ],
@@ -271,7 +271,7 @@
    ],
    "pm": [
     "5:00 pm: shred the chicken, warm the tortillas and set out the toppings (15 minutes).",
-    "After dinner: refrigerate the leftover chicken (about 2 1/2 cups) within 2 hours for Thursday.",
+    "After dinner: refrigerate the leftover chicken (about 4 1/2 cups) within 2 hours for Thursday.",
     "Tonight: assemble the 5 jars of Peanut Butter Banana overnight oats for Wednesday."
    ],
    "meals": [
@@ -438,7 +438,7 @@
    ],
    "pm": [
     "4:00 pm: potatoes in the oven at 425 (50 to 60 minutes).",
-    "5:00 pm: steam the broccoli and set out the cheese and yogurt toppings.",
+    "5:00 pm: set out the cheese and yogurt toppings.",
     "After dinner: potatoes are out, so drop the oven to 350 and bake the apple crisp (35 minutes). Serve warm.",
     "After dinner: eyeball what is left in the fridge and pantry for next week's ledger."
    ],
@@ -562,7 +562,7 @@
    ]
   },
   "alfredo": {
-   "t": "Chicken fettuccine alfredo with roasted broccoli",
+   "t": "Chicken fettuccine alfredo with bagged salad",
    "s": "Serves 6",
    "ing": [
     "1 lb fettuccine",
@@ -573,14 +573,12 @@
     "2 tbsp butter",
     "1 tsp garlic powder",
     "1/2 tsp salt and 1/4 tsp pepper",
-    "2 bags (12 oz each) frozen broccoli",
-    "1 tbsp olive oil"
+    "2 bagged salad kits (about 12 oz each, dressing and toppings included)"
    ],
    "st": [
-    "Roast the broccoli on a sheet pan at 425 with the olive oil and a pinch of salt for 18 minutes.",
     "Boil the fettuccine and drain.",
     "Whisk the cornstarch into the evaporated milk, warm it with the butter and garlic powder over medium, stir 3 to 4 minutes until thick, then stir in the Parmesan, salt and pepper.",
-    "Toss the pasta and chicken in the sauce and serve with broccoli."
+    "Toss the pasta and chicken in the sauce. Open the salad kits, toss with the dressing and serve alongside."
    ]
   },
   "scramble": {
@@ -720,7 +718,7 @@
    ]
   },
   "meatballs": {
-   "t": "Turkey meatballs with spaghetti and roasted broccoli",
+   "t": "Turkey meatballs with spaghetti and roasted green beans",
    "s": "Serves 6, plus 15 extra meatballs and 1 jar of sauce for Monday",
    "ing": [
     "2 lb ground turkey",
@@ -734,15 +732,15 @@
     "1 tbsp olive oil for the pans",
     "1 lb spaghetti",
     "2 jars (24 oz each) marinara",
-    "1 bag (12 oz) frozen broccoli",
-    "1 tbsp olive oil and a pinch of salt for the broccoli"
+    "2 bags (12 oz each) frozen green beans",
+    "1 tbsp olive oil and a pinch of salt for the green beans"
    ],
    "st": [
     "Heat the oven to 400 and oil two sheet pans.",
     "Mix the turkey, oats, milk, eggs and seasonings gently with your hands (do not overmix). Roll into about 30 golf-ball-size meatballs and divide between the pans.",
-    "Bake 18 to 20 minutes until 165 inside. Roast the broccoli on a third pan or between the meatballs for the last 18 minutes.",
+    "Bake 18 to 20 minutes until 165 inside. Toss the frozen green beans with the oil and salt and roast them on a third pan or between the meatballs for the last 20 minutes.",
     "Boil the spaghetti and drain. Warm 1 jar of marinara and toss half the sauce through the pasta.",
-    "Serve 15 meatballs over spaghetti with extra sauce and the broccoli. Within 2 hours refrigerate the other 15 meatballs and the second jar of marinara (about 3 cups) for Monday."
+    "Serve 15 meatballs over spaghetti with extra sauce and the green beans. Within 2 hours refrigerate the other 15 meatballs and the second jar of marinara (about 3 cups) for Monday."
    ]
   },
   "oats5": {
@@ -794,19 +792,22 @@
    ]
   },
   "sliders": {
-   "t": "Meatball sliders with carrot sticks",
+   "t": "Meatball sliders with cucumber and pepper plate and chips",
    "s": "Serves 6 (15 minutes, easy for whoever is home)",
    "ing": [
     "15 leftover turkey meatballs (from Sunday)",
     "About 3 cups leftover marinara (1 jar)",
     "6 slider rolls (from the freezer, thawed in the fridge overnight)",
     "1 1/2 cups shredded mozzarella (grate from the block)",
-    "3 cups carrot sticks"
+    "Plate: 2 cucumbers cut into rounds or spears, 3 bell peppers cut into strips",
+    "Ranch dip: 3/4 cup plain Greek yogurt plus 1 tbsp ranch seasoning",
+    "1 bag chips (from the cart)"
    ],
    "st": [
     "Warm the meatballs in the marinara in a covered pan over medium 10 minutes.",
     "Split the rolls, add mozzarella and toast under the broiler 1 to 2 minutes.",
-    "Fill each roll with 2 to 3 meatballs and sauce. Serve with carrots."
+    "While the meatballs warm, stir the ranch seasoning into the yogurt and arrange the cucumbers and peppers on a platter with the dip in the middle.",
+    "Fill each roll with 2 to 3 meatballs and sauce. Serve with the plate and chips."
    ]
   },
   "parfait": {
@@ -864,7 +865,7 @@
    "t": "Crockpot chicken tacos (build your own)",
    "s": "Serves 6, with chicken left over for Thursday",
    "ing": [
-    "3 lb boneless skinless chicken thighs",
+    "4 lb boneless skinless chicken thighs",
     "1 cup salsa",
     "1 tbsp chili powder",
     "1 tsp cumin",
@@ -873,12 +874,12 @@
     "1 tsp salt",
     "1/2 cup water",
     "12 small flour tortillas",
-    "Toppings: 2 cups shredded cheddar, 1 cup salsa, 2 avocados diced, 3/4 cup plain Greek yogurt (instead of sour cream), tortilla chips"
+    "Toppings: 2 cups shredded cheddar, 1 cup salsa, 2 avocados diced, 1 1/2 cups grape tomatoes halved, 3/4 cup sour cream, taco sauce, tortilla chips"
    ],
    "st": [
     "Morning: put the thighs in the slow cooker, sprinkle on the spices and pour the salsa and water over. Cook on low 6 to 7 hours until it shreds easily (165 minimum).",
     "Shred the chicken in the juices. Warm the tortillas in a dry skillet or the microwave.",
-    "Set out the toppings so everyone builds their own tacos. Refrigerate the leftover chicken (about 2 1/2 cups) within 2 hours for Thursday."
+    "Set out the toppings so everyone builds their own tacos. Refrigerate the leftover chicken (about 4 1/2 cups) within 2 hours for Thursday."
    ]
   },
   "oats1": {
@@ -961,18 +962,18 @@
   },
   "chicken_quesadillas": {
    "t": "Chicken quesadillas with salsa and pepper strips",
-   "s": "Serves 6",
+   "s": "Serves 5 (10 quesadillas, 2 each)",
    "ing": [
-    "6 large tortillas",
-    "1 cup shredded chicken (from Tuesday's tacos)",
-    "2 cups shredded cheddar (grate from the block)",
+    "10 large tortillas",
+    "2 1/2 cups shredded chicken (from Tuesday's tacos)",
+    "2 1/2 cups shredded cheddar (grate from the block)",
     "1 tbsp olive oil",
     "1/2 cup salsa for dipping",
     "1 bell pepper cut into strips"
    ],
    "st": [
-    "Sprinkle cheese and chicken over half of each tortilla and fold over.",
-    "Toast in an oiled skillet 2 to 3 minutes per side. Cut into wedges.",
+    "Sprinkle about 1/4 cup chicken and 1/4 cup cheese over half of each tortilla and fold over.",
+    "Toast in an oiled skillet 2 to 3 minutes per side, in batches. Cut into wedges.",
     "Serve with salsa and pepper strips."
    ]
   },
@@ -980,13 +981,13 @@
    "t": "Chicken and black bean rice bowls (build your own)",
    "s": "Serves 6 (the bean meal of the week, 20 minutes)",
    "ing": [
-    "1 1/2 cups shredded chicken (from Tuesday's tacos)",
+    "2 cups shredded chicken (from Tuesday's tacos)",
     "2 cans (15 oz) black beans, drained and rinsed",
     "2 cups long grain white rice and 4 cups water",
     "1 tsp cumin",
     "1 tsp chili powder",
     "1/2 tsp salt",
-    "Toppings: 1 1/2 cups shredded cheddar, 1 cup salsa, 1 avocado diced, crushed tortilla chips"
+    "Toppings: 1 1/2 cups shredded cheddar, 1 cup salsa, 1 avocado diced, 1 cup grape tomatoes halved, 1/2 cup sour cream, taco sauce, crushed tortilla chips"
    ],
    "st": [
     "Cook the rice. Warm the chicken in a pan with the cumin, chili powder, salt and a splash of water. Warm the beans separately.",
@@ -1031,13 +1032,11 @@
     "1 tbsp olive oil and 1 tsp salt for the potatoes",
     "2 cups shredded cheddar (grate from the block)",
     "1 1/2 cups plain Greek yogurt (instead of sour cream)",
-    "1 bag (12 oz) frozen broccoli, steamed",
     "Salt and pepper to taste"
    ],
    "st": [
     "Heat the oven to 425. Scrub and prick the potatoes, rub with the oil and salt and bake directly on the rack 50 to 60 minutes until soft.",
-    "Steam the broccoli for 5 minutes in the last half hour.",
-    "Split the potatoes and set out the cheese, yogurt and broccoli so everyone loads their own."
+    "Split the potatoes and set out the cheese and yogurt so everyone loads their own."
    ]
   },
   "treats": {
@@ -1263,11 +1262,13 @@
   "Slider rolls: move from the freezer to the fridge Sunday night.",
   "Shrimp: move to the fridge Wednesday morning.",
   "Eyeball before Monday: chia, granola, peanut butter, chocolate chips (oats mornings Monday and Wednesday), and the vanilla almond creamer for Monday.",
-  "Frozen broccoli: the plan uses 6 bags after tonight (alfredo 2, Saturday lunch 1, Sunday 1, Wednesday 1, Friday 11/13 1).",
+  "Frozen broccoli: the plan now uses 2 bags (Saturday lunch 1, Wednesday 1). Frozen green beans: 2 bags for Sunday.",
   "Remove the frozen cheese pizzas from the Aldi cart if they are still in it.",
   "Protein powder: Orgain unflavored plant protein is used in 8 desserts, about 16 scoops total. Check that the container has at least 16 scoops.",
   "Frozen banana bites: put both Aldi boxes in the freezer when groceries arrive Friday and keep them for Tuesday.",
-  "Chocolate pudding mix: the box from home (Thursday's dessert was not made) is used Monday. The one in the cart is a spare."
+  "Chocolate pudding mix: the box from home (Thursday's dessert was not made) is used Monday. The one in the cart is a spare.",
+  "Ranch seasoning: Monday dinner needs 1 more tablespoon (3 uses this week, lunch, snack and dinner).",
+  "Tonight's chicken: after pulling the meat, measure it. Friday lunch needs about 2 cups (adult wraps 1, kid boxes 1) and the alfredo needs 2. If there is less than 4 cups, save the first 2 cups for Friday lunch and cook the extra thigh pound Friday afternoon for the alfredo (pan sear 6 minutes per side, dice)."
  ],
  "shop": [
   {
@@ -1296,16 +1297,23 @@
     "ADD: Bananas, 1 more bunch (about 13 needed, 2 ripe ones for the Wednesday muffins)",
     "ADD: Apples, organic Honeycrisp or Pink Lady, 2 bags of 3 lb (about 17 needed)",
     "ADD: Mandarin oranges, 2 more bags (about 36 needed)",
-    "ADD: Baby carrots, 2 more bags, 2 lb each (about 19 cups needed)",
+    "ADD: Baby carrots, 2 more bags, 2 lb each (about 16 cups needed)",
     "ADD: Avocados, 1 more (tacos 2, bowls 1)",
-    "ADD: Russet potatoes, 1 bag, 5 lb (Friday 11/13 potato bar)"
+    "ADD: Russet potatoes, 1 bag, 5 lb (Friday 11/13 potato bar)",
+    "ADD: Bagged salad kits, 2 (Friday alfredo, any variety your kids will eat)",
+    "ADD: Cucumbers, 2 (Monday plate)"
    ]
   },
   {
    "h": "Proteins",
    "items": [
     "ADD: Ground turkey, 2 lb (Sunday meatballs, cook by Sunday or freeze Friday)",
-    "ADD: Boneless skinless chicken thighs, 3 lb (Tuesday tacos, leftovers for Thursday)"
+    "ADD: Boneless skinless chicken thighs, 1 more lb, 4 lb total (Tuesday tacos need about 3 1/2 cups, Thursday quesadillas 2 1/2 and bowls 2)",
+    {
+     "t": "Boneless skinless chicken thighs, 3 lb (in cart)",
+     "c": 1
+    },
+    "ADD: Boneless skinless chicken thighs, 1 more lb as a Friday buffer (only if tonight's leftover chicken is under 4 cups)"
    ]
   },
   {
@@ -1346,15 +1354,20 @@
     "ADD: Plain Greek yogurt, 2 more tubs, 32 oz each (about 13 cups needed, 1 cup at home is unused)",
     "ADD: Flavored Greek yogurt cups, 1 more four-pack (10 needed)",
     "ADD: String cheese, 3 more packs of 12 (about 55 sticks needed)",
-    "ADD: Cheddar, 3 more 16 oz blocks (about 64 oz needed)",
+    "ADD: Cheddar, 3 more 16 oz blocks (about 66 oz needed, so grab a 4th if you want a buffer)",
     "ADD: 2% milk, 1 more gallon (oats, pancakes, pudding, muffins)",
     "ADD: Butter, 1 lb (brownies, shells, rice, shrimp, pancakes)",
-    "ADD: Eggs, organic, 2 more dozen (about 36 needed)"
+    "ADD: Eggs, organic, 2 more dozen (about 36 needed)",
+    "ADD: Sour cream, 1 tub, 16 oz (tacos and bowls)"
    ]
   },
   {
    "h": "Pantry and dry goods",
    "items": [
+    {
+     "t": "Chips, 1 bag (in cart): Monday side, tacos and bowls",
+     "c": 1
+    },
     {
      "t": "Old-fashioned oats, 1 canister (in cart)",
      "c": 1
@@ -1410,7 +1423,7 @@
     "ADD: Spaghetti, 1 lb (Sunday meatballs)",
     "ADD: Marinara, 2 more 24 oz jars (Sunday, Monday, Wednesday, Friday 11/13)",
     "ADD: Small flour tortillas for tacos, 1 pack of 12 or more",
-    "ADD: Large flour tortillas, 1 more package (about 20 needed)",
+    "ADD: Large flour tortillas, 1 more package (about 24 needed)",
     "ADD: Sandwich bread, 1 more loaf (about 22 slices needed)",
     "ADD: Peanut butter, 1 more jar (about 32 tbsp needed, so this is a buffer)",
     "ADD: Granola, 1 more bag (about 5 1/2 cups needed)",
@@ -1418,16 +1431,17 @@
     "ADD: Cocoa powder, unsweetened, 1 small canister (brownies and chocolate muffins)",
     "ADD: Pure maple syrup, 1 bottle of at least 12 oz (about 1 1/4 cups needed)",
     "ADD: Pumpkin puree, plain, 1 can, 15 oz (not pie filling) for Thursday 11/12 muffins",
-    "ADD: Salsa, 1 jar (tacos, quesadillas, bowls)",
+    "ADD: Salsa, 2 jars (about 3 1/2 cups needed across tacos, bowls and quesadillas)",
     "ADD: Rice, long grain white, 1 bag (about 6 cups needed, about 5 on hand)",
-    "ADD: Old-fashioned oats, 1 more canister (the crisps and muffins use about 6 extra cups)"
+    "ADD: Old-fashioned oats, 1 more canister (the crisps and muffins use about 6 extra cups)",
+    "ADD: Taco sauce, 1 bottle (tacos and bowls)"
    ]
   },
   {
    "h": "Frozen",
    "items": [
     {
-     "t": "Frozen broccoli florets, 3 bags, 12 oz each (in cart)",
+     "t": "Frozen broccoli florets, 3 bags, 12 oz each (in cart, 2 needed)",
      "c": 1
     },
     {
@@ -1435,7 +1449,7 @@
      "c": 1
     },
     "ADD: Frozen mixed berries, 1 bag, 16 oz (Sunday berry crisp)",
-    "ADD: Frozen broccoli florets, 3 more bags (6 needed after tonight)",
+    "ADD: Frozen green beans, 2 bags, 12 oz each (Sunday)",
     "TAKE OUT of the cart: frozen cheese pizzas (Domino's covered Wednesday)"
    ]
   },
@@ -1451,7 +1465,8 @@
     "Canned peaches, 1 to 2 cans on hand (Friday dessert needs 2 with the one in the cart)",
     "Cinnamon, nutmeg, chili powder, cumin, paprika, Italian seasoning, garlic powder",
     "Mayo, grainy mustard, lemon, onion, celery, olive oil, liquid aminos, flour, sugar, baking powder, vanilla",
-    "Hot dogs (4) and hot dog buns (4) are spare, not in the plan"
+    "Hot dogs (4) and hot dog buns (4) are spare, not in the plan",
+    "Grape tomatoes (on hand): about 2 1/2 cups halved for tacos and bowls"
    ]
   },
   {
