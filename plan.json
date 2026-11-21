@@ -1,107 +1,96 @@
 {
- "week": "wk-2026-11-19c",
+ "week": "wk-2026-11-21",
  "year": 2026,
  "month": 10,
- "sub": "Week 12, Plan 1: Thu 11/19 dinner to Mon 11/23 breakfast.",
+ "sub": "Week 12, Sat 11/21 supper to Wed 11/25 supper.",
  "days": [
   {
-   "k": "thu",
-   "wd": "Thu",
-   "n": 19,
-   "tag": "Sick week, pizza night",
-   "note": "Pizza is ordered with the Aldi delivery, so tonight is easy.",
+   "k": "sat",
+   "wd": "Sat",
+   "n": 21,
+   "tag": "Groceries arrive today",
+   "note": "Only supper is in the plan today. Quick crockpot chicken that cooks in about 2 hours.",
    "am": [
-    "Add the Aldi pizza to the delivery order (2 large pizzas) and a package of pre-made cookies.",
-    "When the groceries arrive, put the cold items away first."
+    "When the groceries arrive, put the cold items away first.",
+    "By 3:00 pm: cut the thighs into 1 inch pieces, mix the sauce and start the crockpot on high (about 2 to 2 1/2 hours)."
    ],
    "pm": [
-    "Serve the pizza with carrot sticks and a cookie each.",
-    "Tonight at 10 pm: assemble the egg and toast bake in the crockpot and start it on low."
+    "About 4:45 pm: start the rice and microwave the broccoli. Thicken the sauce for the last 10 minutes.",
+    "After dinner: refrigerate leftover chicken within 2 hours and wash the crockpot.",
+    "Tonight at 10 pm: start the cheesy grits in the clean crockpot on low."
    ],
    "meals": [
     [
      "Dinner",
-     "Aldi pizza with carrot sticks",
-     "Ordered in",
-     "d_pizza"
-    ],
-    [
-     "Dessert",
-     "Pre-made cookie",
-     "",
-     "de_cookie"
+     "Crockpot soy-maple chicken with rice and broccoli",
+     "Crockpot, about 2 hours",
+     "d_soymaple"
     ]
    ]
   },
   {
-   "k": "fri",
-   "wd": "Fri",
-   "n": 20,
-   "tag": "School day",
-   "note": "Breakfast cooked itself overnight. Lunch is leftover pizza, dinner is a dump-and-go macaroni.",
+   "k": "sun",
+   "wd": "Sun",
+   "n": 22,
+   "tag": "Kids home, slower day",
+   "note": "Grits cooked overnight, lunch is hot dogs, and the macaroni cooks itself this afternoon.",
    "am": [
-    "Scoop the crockpot egg bake into bowls (it should be set in the middle). Wash the crockpot.",
-    "Pack school lunches for the middle and youngest: leftover pizza, or a peanut butter or cheddar sandwich with carrot sticks.",
-    "Pack the snacks: apple slices and string cheese in the morning, carrots, ranch yogurt dip and pretzels for after school.",
-    "By 11:30 am: start the cheeseburger macaroni in the crockpot (turkey, onion, sauce and broth on low). At about 4:15 pm add the macaroni on high."
+    "Stir the butter and cheddar into the grits and top with banana slices. Wash the crockpot.",
+    "By 11:30 am: start the cheeseburger macaroni base in the crockpot (turkey, onion, sauce and broth on low).",
+    "Lunch: heat the hot dogs, serve with carrots and mandarins."
    ],
    "pm": [
-    "About 4:15 pm: stir the macaroni into the crockpot and turn it to high (30 to 45 minutes). Stir in the evaporated milk and cheddar at the end.",
-    "Tonight at 10 pm: start the apple cinnamon oatmeal in the clean crockpot."
+    "About 4:15 pm: stir the macaroni into the crockpot on high (30 to 45 minutes), then the evaporated milk and cheddar. Microwave the broccoli.",
+    "After dinner: refrigerate the leftover macaroni for Monday lunch. Wash the crockpot.",
+    "Tonight at 10 pm: start the apple cinnamon oatmeal on low."
    ],
    "meals": [
     [
      "Breakfast",
-     "Crockpot cheesy egg and toast bake",
+     "Crockpot cheesy grits with bananas",
      "Made overnight",
-     "b_eggbake"
+     "b_grits"
     ],
     [
      "AM snack",
-     "Apple slices and string cheese",
+     "Apple slices with peanut butter",
      "",
-     "s_apple_cheese"
+     "s_apple_pb"
     ],
     [
      "Lunch",
-     "Leftover pizza and sandwiches",
-     "Thursday's pizza",
-     "l_pizza"
+     "Hot dogs with carrot sticks and a mandarin",
+     "",
+     "l_hotdogs"
     ],
     [
      "PM snack",
-     "Carrots, ranch yogurt dip and pretzels",
+     "Greek yogurt and granola",
      "",
-     "s_carrot_pretzel"
+     "s_yogurt_granola"
     ],
     [
      "Dinner",
      "Crockpot cheeseburger macaroni with broccoli",
      "Crockpot, hands-off",
      "d_mac"
-    ],
-    [
-     "Dessert",
-     "Pre-made cookie",
-     "",
-     "de_cookie"
     ]
    ]
   },
   {
-   "k": "sat",
-   "wd": "Sat",
-   "n": 21,
-   "tag": "Home day",
-   "note": "Oatmeal is done when you wake up. The whole chicken goes in mid-morning and cooks all day.",
+   "k": "mon",
+   "wd": "Mon",
+   "n": 23,
+   "tag": "Kids home",
+   "note": "Oatmeal is ready. The whole chicken goes in mid-morning and cooks all day.",
    "am": [
     "Stir the peanut butter and maple into the apple cinnamon oatmeal and top with granola. Wash the crockpot.",
-    "By 9:30 am: put the whole fresh chicken on the vegetables in the crockpot (low 7 to 8 hours). Do not use a frozen chicken.",
-    "Lunch is leftover macaroni. Set out bread and peanut butter for anyone who wants a sandwich too."
+    "By 9:30 am: put the whole fresh chicken on the vegetables in the crockpot (low 7 to 8 hours). Never use a frozen chicken.",
+    "Lunch: leftover macaroni, or a turkey and cheese sandwich with carrots and fruit."
    ],
    "pm": [
-    "After dinner: pull all the leftover chicken off the bones and refrigerate within 2 hours (about 3 cups for Sunday).",
-    "Wash the crockpot. Tonight at 10 pm: start the cheesy grits (low, overnight)."
+    "After dinner: pull all the leftover chicken off the bones and refrigerate within 2 hours (about 3 cups for Wednesday).",
+    "Wash the crockpot. Tonight at 10 pm: assemble the egg and toast bake and start it on low."
    ],
    "meals": [
     [
@@ -118,101 +107,117 @@
     ],
     [
      "Lunch",
-     "Leftover cheeseburger macaroni",
-     "Plus sandwiches if it runs short",
-     "l_mac"
+     "Leftover macaroni and turkey sandwiches",
+     "",
+     "l_turkey"
     ],
     [
      "PM snack",
-     "Banana with peanut butter",
+     "Carrots, ranch yogurt dip and pretzels",
      "",
-     "s_banana_pb"
+     "s_carrot_pretzel"
     ],
     [
      "Dinner",
      "Crockpot whole chicken with potatoes and carrots",
      "Crockpot, hands-off",
      "d_chicken"
-    ],
-    [
-     "Dessert",
-     "Pre-made cookie",
-     "",
-     "de_cookie"
     ]
    ]
   },
   {
-   "k": "sun",
-   "wd": "Sun",
-   "n": 22,
-   "tag": "Slower day, shop day",
-   "note": "Grits cooked overnight. Sloppy joes cook in the afternoon. Plan 2 gets approved tonight so the cart can run for Monday pickup.",
+   "k": "tue",
+   "wd": "Tue",
+   "n": 24,
+   "tag": "Kids home",
+   "note": "Egg bake cooked overnight, lunch is pizza bites, sloppy joes cook in the afternoon.",
    "am": [
-    "Stir the butter and cheddar into the grits and top with banana slices. Wash the crockpot.",
-    "Make chicken sandwiches from Saturday's chicken (adult chicken salad, kid chicken and cheese). Keep about 1 1/2 cups of chicken back for Monday lunch.",
-    "About 1:00 pm: start the sloppy joes in the crockpot (low 5 to 6 hours)."
+    "Scoop the egg bake into bowls (it should be set in the middle). Wash the crockpot.",
+    "By 12:00 pm: start the sloppy joes in the crockpot (low 5 to 6 hours).",
+    "Lunch: bake the pizza bites as directed and serve with carrots and fruit."
    ],
    "pm": [
-    "Tonight: look over Plan 2 and tell me it is final so the Walmart cart can be triggered for Monday pickup.",
-    "Wash the crockpot. Tonight at 10 pm: start the chocolate peanut butter oatmeal for Monday."
+    "After dinner: refrigerate the leftover sloppy joes for Wednesday lunch. Wash the crockpot.",
+    "Tonight at 10 pm: start the chocolate peanut butter oatmeal on low."
    ],
    "meals": [
     [
      "Breakfast",
-     "Crockpot cheesy grits with bananas",
+     "Crockpot cheesy egg and toast bake",
      "Made overnight",
-     "b_grits"
+     "b_eggbake"
     ],
     [
      "AM snack",
-     "Greek yogurt and granola",
+     "Banana with peanut butter",
      "",
-     "s_yogurt_granola"
+     "s_banana_pb"
     ],
     [
      "Lunch",
-     "Chicken sandwiches",
-     "Saturday's chicken",
-     "l_chicken"
+     "Pizza bites with carrot sticks and fruit",
+     "",
+     "l_pizzabites"
     ],
     [
      "PM snack",
-     "Apple slices with peanut butter",
+     "White cheddar popcorn and cheese cubes",
      "",
-     "s_apple_pb"
+     "s_popcorn_cheese"
     ],
     [
      "Dinner",
      "Crockpot turkey sloppy joes with carrot sticks",
      "Crockpot, hands-off",
      "d_joes"
-    ],
-    [
-     "Dessert",
-     "Pre-made cookie",
-     "",
-     "de_cookie"
     ]
    ]
   },
   {
-   "k": "mon",
-   "wd": "Mon",
-   "n": 23,
-   "tag": "School day, Plan 1 ends",
-   "note": "Only breakfast is in this plan. Monday lunch starts Plan 2.",
+   "k": "wed",
+   "wd": "Wed",
+   "n": 25,
+   "tag": "Day before Thanksgiving",
+   "note": "Easy day. Leftovers for lunch and a quick crockpot supper from Monday's chicken.",
    "am": [
-    "Stir the peanut butter and maple into the chocolate peanut butter oatmeal. Top with banana and chips.",
-    "Wash the crockpot. The Walmart pickup order for Plan 2 starts with Monday lunch."
+    "Stir the peanut butter and maple into the chocolate peanut butter oatmeal. Top with banana and chips. Wash the crockpot.",
+    "Lunch: leftover sloppy joes, or turkey sandwiches for anyone who wants one.",
+    "Take the Monday leftover chicken out of the fridge to warm up a bit before supper."
    ],
-   "pm": [],
+   "pm": [
+    "By 3:30 pm: put the leftover chicken, BBQ sauce and water in the crockpot on low (1 1/2 to 2 hours).",
+    "After supper, this plan ends. Next plan starts Thursday."
+   ],
    "meals": [
     [
      "Breakfast",
      "Crockpot chocolate peanut butter oatmeal",
      "Oats mix #3, made overnight",
      "b_chocpb"
+    ],
+    [
+     "AM snack",
+     "Apple slices and string cheese",
+     "",
+     "s_apple_cheese"
+    ],
+    [
+     "Lunch",
+     "Leftover sloppy joes",
+     "",
+     "l_joes"
+    ],
+    [
+     "PM snack",
+     "Cheez-Its and string cheese",
+     "",
+     "s_cheezits_cheese"
+    ],
+    [
+     "Dinner",
+     "Crockpot BBQ chicken sandwiches with carrot sticks",
+     "Crockpot, hands-off",
+     "d_bbq"
     ]
    ]
   }
@@ -247,24 +252,6 @@
    ],
    "st": [
     "Pack or plate as listed."
-   ]
-  },
-  "l_chicken": {
-   "t": "Chicken sandwiches (adults chicken salad, kid chicken and cheese)",
-   "s": "Serves 6",
-   "ing": [
-    "3 cups cooked chicken, shredded (leftover from dinner)",
-    "12 slices sandwich bread",
-    "3 tbsp mayo",
-    "1 tbsp yellow mustard",
-    "1/4 tsp salt",
-    "6 slices cheddar, cut from a block (kid sandwiches)",
-    "Carrot sticks, about 5 baby carrots per person"
-   ],
-   "st": [
-    "Adults: mix 1 1/2 cups chicken with the mayo, mustard and salt and make 2 or 3 sandwiches.",
-    "Kids: layer the other 1 1/2 cups chicken and a slice of cheddar on bread, plain or with a little mayo.",
-    "Serve with the carrot sticks."
    ]
   },
   "s_carrot_pretzel": {
@@ -433,39 +420,6 @@
     "Top each bowl with banana slices and a few chips."
    ]
   },
-  "d_pizza": {
-   "t": "Aldi pizza with carrot sticks",
-   "s": "Serves 6",
-   "ing": [
-    "2 large Aldi pizzas, ordered with the groceries (about 1/3 pizza per person)",
-    "Baby carrots, about 6 per person"
-   ],
-   "st": [
-    "Bake or serve as directed on the box. Serve with the carrot sticks and save the leftovers for Friday lunch."
-   ]
-  },
-  "de_cookie": {
-   "t": "Pre-made cookie",
-   "s": "1 per person",
-   "ing": [
-    "1 pre-made cookie per person (1 package from the Aldi order)"
-   ],
-   "st": [
-    "Serve as is."
-   ]
-  },
-  "l_pizza": {
-   "t": "Leftover pizza, with sandwiches where it runs short",
-   "s": "Serves 6",
-   "ing": [
-    "Leftover Aldi pizza",
-    "Peanut butter or cheddar sandwiches for anyone who needs more (about 4 slices of bread, 4 slices of cheddar cut from the block)",
-    "Baby carrots, about 6 per person"
-   ],
-   "st": [
-    "Reheat the pizza. Make a peanut butter or cheddar sandwich for anyone still hungry."
-   ]
-  },
   "d_mac": {
    "t": "Crockpot cheeseburger macaroni with broccoli",
    "s": "Serves 6",
@@ -491,51 +445,158 @@
     "Microwave the broccoli and serve alongside. Refrigerate leftovers for Saturday lunch."
    ]
   },
-  "l_mac": {
-   "t": "Leftover cheeseburger macaroni, with sandwiches where it runs short",
+  "d_soymaple": {
+   "t": "Crockpot soy-maple chicken with rice and broccoli",
    "s": "Serves 6",
    "ing": [
-    "Leftover cheeseburger macaroni",
-    "Sandwich bread, peanut butter or cheddar for anyone who needs more (about 4 slices)",
+    "3 lb boneless skinless chicken thighs, cut into 1 inch pieces",
+    "1/3 cup liquid aminos (or soy sauce)",
+    "1/4 cup maple syrup",
+    "2 tbsp olive oil",
+    "1 1/2 tsp garlic powder",
+    "1/2 cup water",
+    "1 tbsp cornstarch mixed with 2 tbsp cold water",
+    "2 cups long grain white rice, dry",
+    "4 cups water for the rice",
+    "2 bags frozen broccoli, microwaved"
+   ],
+   "st": [
+    "Put the cut-up thighs in the crockpot. Stir the liquid aminos, maple, olive oil, garlic powder and 1/2 cup water together and pour over.",
+    "Cook on high about 2 to 2 1/2 hours (check at 1 1/2 hours). The pieces must reach 165 and be cooked through.",
+    "Start the rice: bring 4 cups water to a boil, add the rice, cover and simmer on low about 18 minutes.",
+    "Stir the cornstarch mixture into the crockpot for the last 10 minutes with the lid off so the sauce thickens.",
+    "Microwave the broccoli. Serve the chicken and sauce over the rice. Refrigerate leftover chicken within 2 hours."
+   ]
+  },
+  "l_hotdogs": {
+   "t": "Hot dogs with carrot sticks and a mandarin",
+   "s": "Serves 6",
+   "ing": [
+    "10 hot dogs",
+    "10 hot dog buns",
+    "Baby carrots, about 6 per person",
+    "1 mandarin per person",
+    "Ketchup and mustard"
+   ],
+   "st": [
+    "Heat the hot dogs in a skillet or a pot of hot water about 8 minutes. Serve on the buns with the carrots and mandarins."
+   ]
+  },
+  "l_turkey": {
+   "t": "Turkey and cheese sandwiches, with leftovers first",
+   "s": "Serves 6",
+   "ing": [
+    "12 slices sandwich bread",
+    "1/2 lb deli turkey",
+    "6 slices cheddar, cut from a block",
+    "Mayo and mustard",
+    "Baby carrots, about 6 per person",
     "1 apple or mandarin per person"
    ],
    "st": [
-    "Reheat the macaroni in the microwave. Make a peanut butter or cheddar sandwich for anyone still hungry."
+    "Anyone who wants the leftover macaroni eats that. Everyone else makes a turkey and cheese sandwich. Serve with the carrots and fruit."
+   ]
+  },
+  "l_pizzabites": {
+   "t": "Pizza bites with carrot sticks and fruit",
+   "s": "Serves 6",
+   "ing": [
+    "2 bags frozen pizza bites (about 8 per person)",
+    "Baby carrots, about 6 per person",
+    "1 mandarin or 1/2 apple per person"
+   ],
+   "st": [
+    "Bake the pizza bites as directed on the bag. Serve with the carrots and fruit."
+   ]
+  },
+  "l_joes": {
+   "t": "Leftover sloppy joes, with turkey sandwiches if it runs short",
+   "s": "Serves 6",
+   "ing": [
+    "Leftover sloppy joe mixture",
+    "Rolls for each serving",
+    "Deli turkey and bread for anyone who wants a sandwich instead",
+    "Baby carrots, about 6 per person"
+   ],
+   "st": [
+    "Reheat the sloppy joe mixture in the microwave and serve on rolls with the carrots."
+   ]
+  },
+  "d_bbq": {
+   "t": "Crockpot BBQ chicken sandwiches with carrot sticks",
+   "s": "Serves 6",
+   "ing": [
+    "3 cups cooked chicken, shredded (leftover from Monday)",
+    "1 cup BBQ sauce",
+    "1/4 cup water",
+    "6 sandwich rolls",
+    "Baby carrots, about 6 per person"
+   ],
+   "st": [
+    "Put the chicken, BBQ sauce and water in the crockpot and stir.",
+    "Cook on low 1 1/2 to 2 hours, until hot all the way through (165).",
+    "Pile onto the rolls and serve with the carrots."
+   ]
+  },
+  "s_popcorn_cheese": {
+   "t": "White cheddar popcorn and cheese cubes",
+   "s": "Per person",
+   "ing": [
+    "1 cup white cheddar popcorn",
+    "3 cheddar cubes cut from a block"
+   ],
+   "st": [
+    "Plate as listed."
+   ]
+  },
+  "s_cheezits_cheese": {
+   "t": "Cheez-Its and string cheese",
+   "s": "Per person",
+   "ing": [
+    "15 Cheez-Its",
+    "1 string cheese"
+   ],
+   "st": [
+    "Plate as listed."
    ]
   }
  },
  "dinners": [
   [
-   "Thu 19",
-   "Aldi pizza, carrot sticks",
-   "Order in"
-  ],
-  [
-   "Fri 20",
-   "Crockpot cheeseburger macaroni, broccoli",
-   "Crockpot"
-  ],
-  [
    "Sat 21",
-   "Crockpot whole chicken, potatoes and carrots",
+   "Crockpot soy-maple chicken, rice, broccoli",
    "Crockpot"
   ],
   [
    "Sun 22",
+   "Crockpot cheeseburger macaroni, broccoli",
+   "Crockpot"
+  ],
+  [
+   "Mon 23",
+   "Crockpot whole chicken, potatoes, carrots",
+   "Crockpot"
+  ],
+  [
+   "Tue 24",
    "Crockpot turkey sloppy joes, carrot sticks",
+   "Crockpot"
+  ],
+  [
+   "Wed 25",
+   "Crockpot BBQ chicken sandwiches, carrot sticks",
    "Crockpot"
   ]
  ],
- "method": "Thursday is Aldi pizza. Friday to Sunday dinners and all four breakfasts are crockpot meals. Lunches are leftovers or sandwiches. Dinner is ready about 5:30 with almost no dishes. One crockpot, washed between meals.",
- "desserts": "A pre-made cookie each night, Thursday to Sunday. No desserts to make this plan.",
+ "method": "Every dinner and every breakfast is a crockpot meal. Kids are home all week, so lunches are hot dogs, pizza bites, turkey sandwiches and leftovers. Dinner is ready about 5:30 with almost no dishes. One crockpot, washed between meals.",
+ "desserts": "No desserts planned for this plan.",
  "pantry": [
   "Pantry is unknown after last week, so eyeball these before the day they are used.",
-  "Peanut butter: about 1 cup needed across the plan",
-  "Granola, grits, cocoa powder, maple syrup, mini chocolate chips",
-  "Pretzels, ranch seasoning, mayo, yellow mustard, ketchup, Worcestershire, tomato paste, brown sugar",
-  "Cinnamon, nutmeg, Italian seasoning, paprika, garlic powder, olive oil, butter, vanilla",
-  "Fresh whole chicken only: never start a frozen one in the crockpot",
-  "Fat free evaporated milk, 1 can (12 oz) for Friday's macaroni"
+  "Rice (2 cups), cornstarch, liquid aminos for Saturday",
+  "Fat free evaporated milk, 1 can (12 oz) for Sunday's macaroni",
+  "Peanut butter (about 1 1/2 cups), granola, grits, cocoa powder, maple syrup, mini chocolate chips",
+  "Hot dogs and hot dog buns: about 4 of each may be on hand",
+  "Whole chicken must be fresh, never frozen, in the crockpot"
  ],
  "shop": [
   {
@@ -543,17 +604,20 @@
    "items": [
     "Bananas, 2 bunches",
     "Apples, organic Honeycrisp or Pink Lady, 1 bag (3 lb)",
-    "Mandarin oranges, 1 bag",
-    "Baby carrots, 2 bags of 2 lb",
-    "Gold potatoes, 2 to 3 lb (Saturday chicken)",
-    "Onions, 1 bag",
-    "Whole fresh chicken, 4 to 5 lb (Saturday)"
+    "Mandarin oranges, 2 bags",
+    "Baby carrots, 3 bags of 2 lb",
+    "Gold potatoes, 2 to 3 lb",
+    "Onions, 1 bag (you need 3)"
    ]
   },
   {
    "h": "Proteins",
    "items": [
-    "Ground turkey, 2 lb (macaroni Friday, sloppy joes Sunday)"
+    "Boneless skinless chicken thighs, 3 lb (tonight)",
+    "Whole fresh chicken, 4 to 5 lb (Monday, never frozen)",
+    "Ground turkey, 2 lb (macaroni Sunday, sloppy joes Tuesday)",
+    "Hot dogs, 1 pack (need 10, you have about 4)",
+    "Deli turkey, about 1/2 to 1 lb"
    ]
   },
   {
@@ -561,33 +625,39 @@
    "items": [
     "Eggs, organic, 2 dozen",
     "Plain Greek yogurt, 1 tub of 32 oz",
-    "String cheese, 1 pack of 12",
-    "Cheddar, 2 blocks of 16 oz (macaroni uses 12 oz, so it is tight)",
+    "String cheese, 2 packs of 12",
+    "Cheddar, 3 blocks of 16 oz",
     "2% milk, 1 gallon"
    ]
   },
   {
-   "h": "Pantry and frozen",
+   "h": "Pantry and dry goods",
    "items": [
     "Sandwich bread, 2 loaves",
-    "Sandwich rolls or buns, 1 pack of 6 or more",
+    "Sandwich rolls, 12 (sloppy joes and BBQ chicken)",
+    "Hot dog buns, 1 pack of 8 (need 10, you have about 4)",
     "Elbow macaroni, 1 lb",
-    "Tomato sauce, 2 cans (15 oz) (macaroni Friday, sloppy joes Sunday)",
+    "Tomato sauce, 2 cans (15 oz)",
     "Chicken broth, 1 carton (32 oz)",
-    "Steel-cut oats, 1 canister",
-    "Frozen broccoli, 2 bags",
-    "Aldi pizza, 2 large (tonight)",
-    "Pre-made cookies, 1 package (Thu to Sun, 1 per person per night)"
+    "BBQ sauce, 1 bottle",
+    "Steel-cut oats, 1 canister"
+   ]
+  },
+  {
+   "h": "Frozen",
+   "items": [
+    "Frozen broccoli, 4 bags",
+    "Frozen pizza bites, 2 bags"
    ]
   },
   {
    "h": "Eyeball at home",
    "items": [
-    "Peanut butter (about 1 cup needed)",
-    "Granola, grits, cocoa powder, maple syrup, mini chocolate chips",
-    "Pretzels, ranch seasoning, mayo, yellow mustard, ketchup, Worcestershire",
-    "Tomato paste, brown sugar, cinnamon, nutmeg, Italian seasoning, paprika, garlic powder, olive oil, butter, vanilla",
-    "Fat free evaporated milk, 1 can (12 oz) for Friday's macaroni"
+    "Rice, long grain white (2 cups needed), cornstarch, liquid aminos",
+    "Fat free evaporated milk, 1 can (12 oz)",
+    "Peanut butter (about 1 1/2 cups needed), granola, grits, cocoa powder, maple syrup, mini chocolate chips",
+    "Pretzels, white cheddar popcorn, Cheez-Its, ranch seasoning, mayo, yellow mustard, ketchup, Worcestershire",
+    "Tomato paste, brown sugar, cinnamon, nutmeg, paprika, garlic powder, salt, pepper, olive oil, butter, vanilla"
    ]
   }
  ]
