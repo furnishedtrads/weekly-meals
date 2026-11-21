@@ -1,5 +1,5 @@
 {
- "week": "wk-2026-11-21",
+ "week": "wk-2026-11-21c",
  "year": 2026,
  "month": 10,
  "sub": "Week 12, Sat 11/21 supper to Wed 11/25 supper.",
@@ -42,7 +42,7 @@
    "pm": [
     "About 4:15 pm: stir the macaroni into the crockpot on high (30 to 45 minutes), then the evaporated milk and cheddar. Microwave the broccoli.",
     "After dinner: refrigerate the leftover macaroni for Monday lunch. Wash the crockpot.",
-    "Tonight at 10 pm: start the apple cinnamon oatmeal on low."
+    "Tonight: assemble the French toast casserole in a 9x13 dish, cover and refrigerate."
    ],
    "meals": [
     [
@@ -82,22 +82,22 @@
    "wd": "Mon",
    "n": 23,
    "tag": "Kids home",
-   "note": "Oatmeal is ready. The whole chicken goes in mid-morning and cooks all day.",
+   "note": "French toast bakes while everyone wakes up. The whole chicken goes in mid-morning and cooks all day.",
    "am": [
-    "Stir the peanut butter and maple into the apple cinnamon oatmeal and top with granola. Wash the crockpot.",
+    "As soon as you are up: heat the oven to 350 and bake the French toast casserole (40 to 45 minutes). Top with Greek yogurt and apple slices.",
     "By 9:30 am: put the whole fresh chicken on the vegetables in the crockpot (low 7 to 8 hours). Never use a frozen chicken.",
     "Lunch: leftover macaroni, or a turkey and cheese sandwich with carrots and fruit."
    ],
    "pm": [
     "After dinner: pull all the leftover chicken off the bones and refrigerate within 2 hours (about 3 cups for Wednesday).",
-    "Wash the crockpot. Tonight at 10 pm: assemble the egg and toast bake and start it on low."
+    "Tonight: assemble the egg and toast bake in a 9x13 dish, cover and refrigerate."
    ],
    "meals": [
     [
      "Breakfast",
-     "Crockpot apple cinnamon oatmeal",
-     "Oats mix #2, made overnight",
-     "b_applo"
+     "Overnight cinnamon French toast casserole",
+     "Assembled the night before, baked in the morning",
+     "b_ft"
     ],
     [
      "AM snack",
@@ -130,9 +130,9 @@
    "wd": "Tue",
    "n": 24,
    "tag": "Kids home",
-   "note": "Egg bake cooked overnight, lunch is pizza bites, sloppy joes cook in the afternoon.",
+   "note": "Egg bake bakes while everyone wakes up, lunch is pizza bites, sloppy joes cook in the afternoon.",
    "am": [
-    "Scoop the egg bake into bowls (it should be set in the middle). Wash the crockpot.",
+    "As soon as you are up: heat the oven to 350 and bake the egg and toast bake (35 to 40 minutes).",
     "By 12:00 pm: start the sloppy joes in the crockpot (low 5 to 6 hours).",
     "Lunch: bake the pizza bites as directed and serve with carrots and fruit."
    ],
@@ -143,8 +143,8 @@
    "meals": [
     [
      "Breakfast",
-     "Crockpot cheesy egg and toast bake",
-     "Made overnight",
+     "Overnight cheesy egg and toast bake",
+     "Assembled the night before, baked in the morning",
      "b_eggbake"
     ],
     [
@@ -224,22 +224,21 @@
  ],
  "r": {
   "b_eggbake": {
-   "t": "Crockpot cheesy egg and toast bake",
+   "t": "Overnight cheesy egg and toast bake (baked in the morning)",
    "s": "Serves 5",
    "ing": [
     "10 eggs",
     "1 cup 2% milk",
     "5 slices sandwich bread, cut into cubes",
     "1 1/2 cups cheddar, cubed or grated from a block",
-    "1 tbsp olive oil for greasing the crockpot",
+    "1 tbsp olive oil for greasing the dish",
     "1/2 tsp salt",
     "1/4 tsp pepper"
    ],
    "st": [
-    "Rub the crockpot with the olive oil.",
-    "Layer the bread cubes and cheddar in the crockpot.",
-    "Whisk the eggs, milk, salt and pepper and pour over. Press the bread down.",
-    "Cook on low 5 to 6 hours overnight, until set in the middle. Start it about 10 pm so it is done by 5 or 6 am.",
+    "The night before: rub a 9x13 baking dish with the olive oil and layer in the bread cubes and cheddar.",
+    "Whisk the eggs, milk, salt and pepper and pour over. Press the bread down, cover and refrigerate overnight.",
+    "Morning: heat the oven to 350. Bake uncovered 35 to 40 minutes, until set in the middle.",
     "Scoop into bowls with a mandarin or sliced banana on the side."
    ]
   },
@@ -264,29 +263,6 @@
    ],
    "st": [
     "Stir the ranch seasoning into the yogurt. Pack or plate as listed."
-   ]
-  },
-  "b_applo": {
-   "t": "Crockpot apple cinnamon oatmeal (oats mix #2)",
-   "s": "Serves 5",
-   "ing": [
-    "1 1/4 cups steel-cut oats",
-    "4 cups water",
-    "1 cup 2% milk",
-    "2 apples, diced",
-    "1 tbsp cinnamon",
-    "1/4 tsp nutmeg",
-    "1/3 cup peanut butter",
-    "1 tsp vanilla",
-    "1/4 tsp salt",
-    "1 tbsp maple syrup",
-    "Granola for topping, about 2 tbsp per person"
-   ],
-   "st": [
-    "Grease the crockpot lightly. Add the oats, water, milk, apples, cinnamon, nutmeg, vanilla and salt.",
-    "Cook on low 7 to 8 hours overnight.",
-    "In the morning stir in the peanut butter and maple until melted in. Add a splash of milk if it is thick.",
-    "Top each bowl with granola."
    ]
   },
   "s_mandarin_cheese": {
@@ -559,6 +535,28 @@
    "st": [
     "Plate as listed."
    ]
+  },
+  "b_ft": {
+   "t": "Overnight cinnamon French toast casserole (baked in the morning)",
+   "s": "Serves 5",
+   "ing": [
+    "10 slices sandwich bread, cut into cubes",
+    "6 eggs",
+    "1 1/2 cups 2% milk",
+    "3 tbsp maple syrup",
+    "1 tsp vanilla",
+    "1 1/2 tsp cinnamon",
+    "1/4 tsp salt",
+    "2 tbsp butter, melted, plus a little for greasing",
+    "1 1/4 cups plain Greek yogurt for serving",
+    "2 apples, sliced, for serving"
+   ],
+   "st": [
+    "The night before: grease a 9x13 baking dish with a little butter and add the bread cubes.",
+    "Whisk the eggs, milk, maple, vanilla, cinnamon, salt and melted butter. Pour over the bread and press it down so it soaks. Cover and refrigerate overnight.",
+    "Morning: heat the oven to 350. Bake uncovered 40 to 45 minutes, until set in the middle and a knife comes out clean. Rest 5 minutes.",
+    "Top each serving with a big spoonful of Greek yogurt and apple slices. Add only a tiny extra drizzle of maple if needed."
+   ]
   }
  },
  "dinners": [
@@ -588,15 +586,16 @@
    "Crockpot"
   ]
  ],
- "method": "Every dinner and every breakfast is a crockpot meal. Kids are home all week, so lunches are hot dogs, pizza bites, turkey sandwiches and leftovers. Dinner is ready about 5:30 with almost no dishes. One crockpot, washed between meals.",
+ "method": "Dinners and the grits and oatmeal breakfasts are crockpot meals. The French toast and egg bake are assembled the night before and baked in the morning. Kids are home all week, so lunches are hot dogs, pizza bites, turkey sandwiches and leftovers. Dinner is ready about 5:30 with almost no dishes.",
  "desserts": "No desserts planned for this plan.",
  "pantry": [
   "Pantry is unknown after last week, so eyeball these before the day they are used.",
   "Rice (2 cups), cornstarch, liquid aminos for Saturday",
   "Fat free evaporated milk, 1 can (12 oz) for Sunday's macaroni",
-  "Peanut butter (about 1 1/2 cups), granola, grits, cocoa powder, maple syrup, mini chocolate chips",
+  "Peanut butter (about 3/4 cup), granola, grits, cocoa powder, maple syrup, mini chocolate chips",
   "Hot dogs and hot dog buns: about 4 of each may be on hand",
-  "Whole chicken must be fresh, never frozen, in the crockpot"
+  "Whole chicken must be fresh, never frozen, in the crockpot",
+  "9x13 baking dish for the Monday and Tuesday breakfast casseroles"
  ],
  "shop": [
   {
@@ -623,7 +622,7 @@
   {
    "h": "Dairy and eggs",
    "items": [
-    "Eggs, organic, 2 dozen",
+    "Eggs, organic, 2 dozen (egg bake 10, French toast 6)",
     "Plain Greek yogurt, 1 tub of 32 oz",
     "String cheese, 2 packs of 12",
     "Cheddar, 3 blocks of 16 oz",
@@ -655,9 +654,10 @@
    "items": [
     "Rice, long grain white (2 cups needed), cornstarch, liquid aminos",
     "Fat free evaporated milk, 1 can (12 oz)",
-    "Peanut butter (about 1 1/2 cups needed), granola, grits, cocoa powder, maple syrup, mini chocolate chips",
+    "Peanut butter (about 3/4 cup needed), granola, grits, cocoa powder, maple syrup, mini chocolate chips",
     "Pretzels, white cheddar popcorn, Cheez-Its, ranch seasoning, mayo, yellow mustard, ketchup, Worcestershire",
-    "Tomato paste, brown sugar, cinnamon, nutmeg, paprika, garlic powder, salt, pepper, olive oil, butter, vanilla"
+    "Tomato paste, brown sugar, cinnamon, nutmeg, paprika, garlic powder, salt, pepper, olive oil, butter, vanilla",
+    "9x13 baking dish (French toast Monday, egg bake Tuesday)"
    ]
   }
  ]
